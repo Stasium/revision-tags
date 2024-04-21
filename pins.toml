@@ -1,0 +1,6 @@
+[pins]
+embed = false
+enabled = false
+content = """
+https://revios.rignoa.com/img/dc/pins.png
+"""

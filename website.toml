@@ -1,0 +1,8 @@
+[website]
+embed = true
+enabled = true
+content = """
+**Revision website**
+
+<https://www.revi.cc/>
+"""

@@ -1,0 +1,26 @@
+[markdowns]
+embed = false
+enabled = true
+content = """
+# test
+## test
+### test
+**test**
+*test*
+~~test~~
+__test__
+
+* test
+- test
+
+1. numbered list
+2. numbered list
+
+||spoiler||
+[link](<https://duckduckgo.com>)
+`inline codeblock`
+```js
+console.log("code block");
+```
+<#626772503473291295>
+"""

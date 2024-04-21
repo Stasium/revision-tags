@@ -1,0 +1,6 @@
+[chromiumhardening]
+embed = true
+enabled = true
+content = """
+<https://github.com/dreammjow/ChromiumHardening>
+"""

@@ -1,0 +1,6 @@
+[opera]
+embed = false
+enabled = true
+content = """
+https://rentry.co/operagx
+"""

@@ -1,0 +1,14 @@
+[bluetooth]
+embed = true
+enabled = true
+content = """
+**Common bluetooth detection/connection issue fix**
+Fix: Likely missing `bthtelemetry.dll`
+
+1. Visit https://winbindex.m417z.com/, in the search bar, type "`bthtelemetry.dll`", select the only option that comes up
+2. Select one of the versions (doesn’t matter) and download the file with the button to the right
+3. A file will be downloaded under a weird looking name like "B0F0271C323726418D2D827AF57E7455954AB6E2051F0CF6DDE469BAEE23540300.blob" 
+4. In file explorer, change the name of the file and its extension to bthtelemetry.dll.
+5. Move the file to C:\\Windows\\System32
+6. Restart
+"""

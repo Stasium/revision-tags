@@ -1,0 +1,6 @@
+[uwpfix]
+embed = true
+enabled = true
+content = """
+If you're having issues with installing `.appx` files, run the following command in an admin Powershell window: ```Add-AppxPackage https://aka.ms/Microsoft.VCLibs.x64.14.00.Desktop.appx```
+"""

@@ -1,0 +1,8 @@
+[drivers]
+embed = true
+enabled = true
+content = """
+You need to **install the drivers** related to the hardware that is not working. Verbose guide on the [**How to install drivers**](https://www.revi.cc/docs/drivers) page of the FAQ. 
+
+Spoiler alert: ||not with Windows Update or any driver installer tool||
+"""

@@ -1,0 +1,6 @@
+[mac]
+embed = true
+enabled = true
+content = """
+<https://github.com/sietseringers/MACAddressTool>
+"""

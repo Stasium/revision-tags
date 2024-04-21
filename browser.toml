@@ -1,0 +1,10 @@
+[browser]
+embed = false
+enabled = true
+content = """
+Every user has their own preference. Some use Firefox, some Librewolf, some UGC, some Chrome, some Brave, some Edge. It is impossible to cater to all these preferences, so we picked the one we think is best. 
+
+Brave consistently [scores highest in privacy regards](https://privacytests.org/) and has a great featureset.
+
+In addition, the Playbook allows you to choose one of four commonly used browsers, giving you more control. If none of these are your favorite, you can even skip browser installation in the Playbook completely and install your choice afterwards.
+"""

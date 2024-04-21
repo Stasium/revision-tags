@@ -1,0 +1,6 @@
+[docs]
+embed = true
+enabled = true
+content = """
+https://www.revi.cc/docs/
+"""

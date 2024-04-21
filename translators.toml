@@ -1,0 +1,30 @@
+[translators]
+embed = true
+enabled = true
+content = """
+**Translation Tools**
+
+<https://www.deepl.com/>
+<https://papago.naver.com/>
+<https://simplytranslate.org/>
+<https://git.sr.ht/~metalune/simplytranslate_web>
+<https://libretranslate.com/>
+<https://github.com/uav4geo/LibreTranslate>
+<https://www.translate.com/>
+<https://mymemory.translated.net/>
+<https://lingva.ml/>
+<https://nicetranslator.com/>
+<https://translate.yandex.com/>
+<https://www.reverso.net/>
+<https://www.babelfish.com/>
+<https://git.sr.ht/~yerinalexey/gtranslate>
+<https://translation2.paralink.com/>
+<https://www.freetranslations.org/>
+<https://apertium.org/>
+<https://www.collinsdictionary.com/translator>
+<https://www.online-translator.com/translation>
+<https://translation.babylon-software.com/>
+<https://www.translatedict.com/>
+<https://quest-app.appspot.com/>
+<https://www.systran.net/en/translate/>
+"""

@@ -1,0 +1,7 @@
+[english]
+embed = true
+image = "https://cdn.discordapp.com/attachments/979051854195470386/1065610527138660453/english-only.gif"
+enabled = true
+content = """
+**Please keep the chat English only!**
+"""

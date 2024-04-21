@@ -1,0 +1,7 @@
+[curve]
+embed = true
+image = "https://i.imgur.com/mkzM6VQ.png"
+enabled = true
+content = """
+**Fan curve example by KGTC**
+"""

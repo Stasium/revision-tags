@@ -1,0 +1,10 @@
+[games]
+embed = true
+enabled = true
+content = """
+## Game Launchers
+
+In case some games launcher are not working on your ReviOS system, please try out alternatives
+
+<https://www.revi.cc/docs/faq/after/game-launchers>
+"""

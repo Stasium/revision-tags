@@ -1,0 +1,8 @@
+[ghub]
+embed = true
+enabled = true
+content = """
+GHUB Alternative:
+
+<https://support.logi.com/hc/en-us/articles/360059641133>
+"""

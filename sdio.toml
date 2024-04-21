@@ -1,0 +1,13 @@
+[sdio]
+embed = true
+enabled = true
+content = """
+***__As a last resort__*** you can use Snappy Driver Installer Origin to install your drivers
+1. Download SDIO from here: https://www.snappy-driver-installer.org/
+2. Extract `SDIO-*.zip`
+3. Run `SDIO_auto.bat` and accept the license
+4. Once the Welcome window pop-ups, click on `Download Indexes Only`
+5. Choose the drivers you want to update and click the Install button
+ 
+[Related FAQ Article](https://www.revi.cc/docs/faq/after/internet) | [Helpful Video](https://youtu.be/5ckOWXGDL34)
+"""

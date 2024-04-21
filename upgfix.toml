@@ -1,0 +1,6 @@
+[upgfix]
+embed = true
+enabled = false
+content = """
+https://www.revi.cc/docs/iso/upgrade#possible-issues
+"""

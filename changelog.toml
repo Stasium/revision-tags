@@ -1,0 +1,8 @@
+[changelog]
+embed = true
+enabled = true
+content = """
+**ReviOS changelogs**
+
+https://www.revi.cc/revios/changelog
+"""

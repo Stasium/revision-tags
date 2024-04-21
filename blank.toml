@@ -1,0 +1,8 @@
+[blank]
+embed = true
+enabled = false
+content = """
+If you're encountering the Blank Screen / `true was unexpected at this time` issue, the solution is in the following thread: 
+
+https://discord.com/channels/619835916139364383/1087737050754723840
+"""

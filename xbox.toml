@@ -1,0 +1,10 @@
+[xbox]
+embed = true
+enabled = true
+content = """
+If your Xbox Wireless Controller isn't working properly, install the respective driver
+
+[Drivers for Xbox 360 Controller](https://www.catalog.update.microsoft.com/Search.aspx?q=Microsoft-Other+hardware-Xbox+Wireless+Adapter+for+Windows)
+
+[Driver for Xbox One Controller](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2017/07/8884e7cc-6130-4803-9fc4-6b542f0f2b4e_1080d7146d5022210f192a3897e22f7c7f25caf6.cab)
+"""

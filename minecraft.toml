@@ -1,0 +1,8 @@
+[minecraft]
+embed = true
+enabled = true
+content = """
+The new Minecraft launcher requires Windows Updates enabled and installs UWP bloat (useless Xbox apps). The classic Minecraft Launcher still works perfectly and should be used instead.
+ 
+<https://launcher.mojang.com/download/MinecraftInstaller.msi>
+"""

@@ -1,0 +1,6 @@
+[hello]
+embed = false
+enabled = true
+content = """
+https://nohello.net/
+"""

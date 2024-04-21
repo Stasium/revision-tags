@@ -1,0 +1,13 @@
+[iso-pb]
+embed = true
+enabled = false
+content = """
+## You want to go from stock to ReviOS without resetting?
+### [Use the playbook](https://www.revi.cc/docs/playbook)
+
+## You can or want to reset while installing ReviOS?
+### [Use the clean ISO](https://www.revi.cc/docs/iso/install)
+
+## You're already on ReviOS and want to upgrade to a newer ReviOS version?
+### [Use the upgrade ISO](https://www.revi.cc/docs/iso/upgrade)
+"""

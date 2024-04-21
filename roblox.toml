@@ -1,0 +1,21 @@
+[roblox]
+embed = true
+enabled = false
+content = """
+If you are having issues regarding to Roblox not working, try the following solutions here:
+
+## Method 1 -Disk Cleanup
+- Open the Run dialog box ( Win + R) and enter `cleanmgr`
+- Select the `C:` drive and check all the boxes
+- Click OK and select `Delete Files` to start the clean up process
+
+Thanks to <@1080170124004294666>
+
+## Method 2 - Installing Alternative Launcher
+
+bloxstrap is an open-source, feature-packed alternative bootstrapper for Roblox.
+
+Link: <https://github.com/pizzaboxer/bloxstrap/releases>
+
+Thanks to <@544567870776934431>
+"""

@@ -1,0 +1,8 @@
+[vcredist]
+embed = true
+enabled = true
+content = """
+**AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes**
+
+https://www.revi.cc/docs/post-install#visual-c-runtime
+"""

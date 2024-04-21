@@ -1,0 +1,6 @@
+[ventoyerror]
+embed = true
+enabled = true
+content = """
+https://www.ventoy.net/en/doc_secure.html
+"""

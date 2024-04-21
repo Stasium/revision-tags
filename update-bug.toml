@@ -1,0 +1,9 @@
+[update-bug]
+embed = true
+enabled = true
+content = """
+## Update Bug (0x800f0984/0x80073713)
+If you're faced with this error when trying to update Windows, try the solution posted here: https://github.com/meetrevision/playbook/issues/49/#issuecomment\\-1819007033 (Group Policy then Only Step 2 & 9)
+
+[Credit to Sthaagg](https://discord.com/channels/619835916139364383/626772503473291295/1194950142508412959)
+"""

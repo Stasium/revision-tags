@@ -1,0 +1,18 @@
+[10or11]
+embed = true
+image = "https://media.discordapp.net/attachments/626772503473291295/1009195071721181194/unknown.png"
+enabled = false
+content = """
+**There are no major differences between Windows 10 and Windows 11.** 
+
+**Windows 11** can have a slightly better performance in DX12 games and on Intel processors of 12th generation and newer. And if you plan to use anti-cheat systems like FACEIT or Vanguard, you need support for Secure Boot and TPM.
+
+We've also found a slightly higher latency on Win11. See the graph below.
+
+If these minor differences don't apply to or interest you, you can safely chose by which aesthetic you like more.
+
+----------------------------
+
+*Graph shows Win10 vs Win11 Latency. Tested with Intel 10700kf and GTX 1070ti by Muren#6968*
+*Win10 - 21H2 LTSC (19044.1288) vs Win11 - 22H2 (22621.105)*
+"""

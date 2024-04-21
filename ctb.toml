@@ -1,0 +1,11 @@
+[ctb]
+embed = true
+enabled = true
+content = """
+**Recommended tweaks**
+
+https://www.calypto.us/
+https://github.com/amitxv
+https://github.com/djdallmann/GamingPCSetup/
+https://github.com/BoringBoredom/PC-Optimization-Hub
+"""

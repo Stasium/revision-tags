@@ -1,0 +1,12 @@
+[fps]
+embed = true
+enabled = true
+content = """
+**Does ReviOS increase FPS?**
+
+ReviOS removes resource intensive drivers, services and background tasks, like ReadyBoost and Windows Defender, which generally helps with improving performance. You may see a slight increase in average FPS, as well as 1% and 0.1% lows. 
+
+**Be aware** however that ReviOS is no magic bullet that will largely improve your FPS. It can only optimize your system's level of bloat, not improve the performance of your actual hardware. You should not expect huge improvements, only a couple of FPS (in addition to generally improved stability, latency and privacy).
+
+If you want a proper FPS boost, you should consider upgrading your hardware, as this will do the biggest difference.
+"""

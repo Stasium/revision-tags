@@ -1,0 +1,10 @@
+[ventoy]
+embed = true
+enabled = true
+content = """
+**Ventoy is an open source tool to create bootable USB drives.**
+
+Download: https://www.ventoy.net/en/download.html
+
+[Homepage](https://www.ventoy.net/) | [Guide](https://www.ventoy.net/en/doc_start.html) | [GitHub](https://github.com/ventoy/Ventoy)
+"""

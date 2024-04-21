@@ -1,0 +1,8 @@
+[faceit]
+embed = true
+enabled = true
+content = """
+FACEIT is most likely only supported by the latest builds of ReviOS 10/11. If you get any FACEIT error messages related to your Windows version, you will need to upgrade your ReviOS instance.
+
+For more information read the related FAQ articles about [FACEIT](https://www.revi.cc/docs/faq/before/faceit) and [upgrading ReviOS](https://www.revi.cc/docs/upgrade)
+"""

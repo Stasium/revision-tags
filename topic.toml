@@ -1,0 +1,10 @@
+[topic]
+embed = true
+enabled = true
+content = """
+Please keep the current topic relevant to the channel. If you need help, check out <#626772969611460619>. Otherwise, please move to the appropriate channel or DMs.
+
+### WARNING:
+
+Continuing to discuss an irrelevant topic can result in a temporary mute or ban from the community channels!
+"""

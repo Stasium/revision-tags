@@ -1,0 +1,19 @@
+[unsupported]
+embed = true
+enabled = true
+content = """
+**As of the latest release of ReviOS**
+
+**Disabled:** (can be enabled)
+Automatic Windows Updates
+Automatic driver installation via Windows Updates
+
+**Removed:**
+Windows Insider Hub
+Intel Indeo Codecs (partially supported)
+
+**Broken:**
+Data Usage page in Settings
+
+[Related FAQ article](https://www.revi.cc/docs/faq/before/unsupported)
+"""

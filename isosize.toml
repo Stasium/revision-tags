@@ -1,0 +1,7 @@
+[isosize]
+embed = true
+image = "https://media.discordapp.net/attachments/672162269202874370/1072035020107173939/Screenshot_20230206_010409_Discord.jpg"
+enabled = true
+content = """
+**ISO size does not directly correlate with OS performance :)**
+"""

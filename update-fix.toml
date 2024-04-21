@@ -1,0 +1,11 @@
+[update-fix]
+embed = true
+enabled = true
+content = """
+In case you are having issues with installing the new updates, use the following commands to repair damaged system files:
+
+- `DISM /Online /Cleanup-Image /RestoreHealth`
+- `SFC /scannow` 
+
+If this method didn't work, please use the [Upgrade solution](https://revi.cc/docs/playbook/upgrade#method-1-recommended) instead.
+"""

@@ -1,0 +1,7 @@
+[ventoy-config]
+embed = true
+enabled = true
+content = """
+**Revision Configuration for Ventoy**
+https://github.com/meetrevision/ventoy-config
+"""

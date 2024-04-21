@@ -1,0 +1,7 @@
+[unicode]
+embed = true
+image = "https://cdn.discordapp.com/attachments/626772969611460619/939447040126099456/unknown.png"
+enabled = true
+content = """
+If you're having issues with your language display, and it looks like the image below, follow the steps in [this post](https://www.revi.cc/docs/faq/after/font) to fix it.
+"""

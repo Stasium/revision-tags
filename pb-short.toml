@@ -1,0 +1,13 @@
+[pb-short]
+embed = true
+enabled = true
+content = """
+## Installing ReviOS via Playbook - Summarized
+1. Prepare a pendrive with Ventoy and the [Revision Ventoy Config](https://revi.cc/docs/playbook/installwindows/#apply-revios-config)
+3. Put the [AME Wizard](https://ameliorated.io/) and the [latest playbook](https://github.com/meetrevision/playbook/releases/latest) on the pendrive
+2. (Optional) Put your network drivers on the pendrive
+3. Download stock Windows [from our docs](https://revi.cc/docs/playbook/installwindows/#downloading-the-windows-iso) and put it on in the `WinIso` folder on the pendrive
+4. Install stock windows
+5. Use AME Wizard to apply the ReviOS playbook on top of stock Windows
+6. Profit
+"""

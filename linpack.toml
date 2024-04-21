@@ -1,0 +1,7 @@
+[linpack]
+embed = true
+enabled = true
+content = """
+**Linpack Extended**
+https://github.com/BoringBoredom/Linpack-Extended
+"""

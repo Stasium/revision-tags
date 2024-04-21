@@ -1,0 +1,6 @@
+[bcu]
+embed = false
+enabled = true
+content = """
+https://www.bcuninstaller.com/
+"""

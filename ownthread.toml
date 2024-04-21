@@ -1,0 +1,6 @@
+[ownthread]
+embed = true
+enabled = true
+content = """
+Please don't hijack this thread. Create your own thread over at <#626772969611460619>
+"""

@@ -1,0 +1,7 @@
+[vsrevi]
+embed = true
+enabled = true
+content = """
+ReviOS' main focus is on compatibility, removing only the most obvious bloat and leaving most things needed by many users intact. Other OSs may lean more towards maximum reduction of the system, removing more components and therefore breaking more parts of the system. 
+**None is objectively better than the other**, it depends solely on what **you** do and how **you** do it. So you have no choice but to try both and form your own opinion.
+"""

@@ -1,0 +1,6 @@
+[ublock]
+embed = true
+enabled = true
+content = """
+<https://ublockorigin.com/>
+"""

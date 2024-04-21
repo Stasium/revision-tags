@@ -1,0 +1,9 @@
+[splines]
+embed = true
+enabled = true
+content = """
+## Stuck on reticulating splines? 
+1. open your Task Manager
+2. find and terminate any Powershell and CMD processes (not AME Wizard itself)
+3. let AME finish, then rerun the playbook
+"""

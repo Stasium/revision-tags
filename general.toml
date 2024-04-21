@@ -1,0 +1,7 @@
+[general]
+embed = false
+image = "https://revios.rignoa.com/img/dc/general.png"
+enabled = true
+content = """
+https://media.discordapp.net/attachments/979051854195470386/1039531522371366932/image.png
+"""

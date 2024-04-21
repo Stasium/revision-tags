@@ -1,0 +1,12 @@
+[issues]
+embed = true
+enabled = false
+content = """
+Windows 11: 
+Known - <https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-22h2>
+Resolved - <https://learn.microsoft.com/en-us/windows/release-health/resolved-issues-windows-11-22h2> 
+
+Windows 10: 
+Known - <https://learn.microsoft.com/en-us/windows/release-health/status-windows-10-22h2>
+Resolved - <https://learn.microsoft.com/en-us/windows/release-health/resolved-issues-windows-10-22h2>
+"""

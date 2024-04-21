@@ -1,0 +1,16 @@
+[tutorial]
+embed = true
+enabled = true
+content = """
+**Help to install and update ReviOS using AME Wizard available here:**
+https://www.revi.cc/docs/playbook/install
+ 
+
+
+**Community Videos:**
+🟨 English Video by <@275019252036272128>
+<https://youtu.be/d2CLBZZZgJA>
+
+🟥 Chinese (Traditional) Video by <@809771061742010408>
+<https://youtu.be/pQj2GIyD89Y>
+"""

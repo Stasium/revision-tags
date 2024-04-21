@@ -1,0 +1,10 @@
+[dyor]
+embed = true
+enabled = true
+content = """
+⚠️ __DO YOUR OWN RESEARCH__ ⚠️ 
+
+Before asking questions about hard- or software, make sure to **do your own research!**. If the answer to your question is easy to find in search engines, or if the question you're asking is very unspecific, you're asking other people to spend their time searching for answers you could easily search yourself.
+
+**__Don't be lazy! You're asking other people to do your work!__**
+"""

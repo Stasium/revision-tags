@@ -1,0 +1,12 @@
+[backup]
+embed = true
+enabled = true
+content = """
+Before installing ReviOS, you should always make backups of your most important data, to carry over to the new install. This applies also when upgrading by reinstalling, or when coming from or going back to stock Windows.
+
+**Some classic locations where important data might be:**
+‣ `%userprofile%` (Documents, Images, Downloads)
+‣ `%userprofile%/appdata` (Software Configuration Files, Game Saves)
+‣ `C:\\ProgramData` (Software Configuration Files)
+‣ `C:\\Windows\\Fonts` (all System and User Fonts)
+"""

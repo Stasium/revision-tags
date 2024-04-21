@@ -1,0 +1,10 @@
+[finals]
+embed = true
+enabled = true
+content = """
+**To Fix the EAC Error in The Finals do the following:**
+
+- Open a cmd window
+- Paste in the following: `reg add "HKLM\\SYSTEM\\CurrentControlSet\\Control\\CI\\Config" /v "VulnerableDriverBlocklistEnable" /t REG_DWORD /d "1" /f`
+- Reboot your PC
+"""

@@ -1,0 +1,9 @@
+[itunes]
+embed = true
+enabled = true
+content = """
+If you are having problems with iTunes not detecting/recognizing your iPhone/iPad, try installing following the guides and installing the drivers from the sources below:
+
+1. [Revision docs - iTunes](https://revi.cc/docs/faq/after/itunes/)
+2. [Apple device driver](https://www.mobiledit.com/download-list/apple-device-drivers)
+"""

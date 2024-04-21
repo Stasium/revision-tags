@@ -1,0 +1,8 @@
+[postinstall]
+embed = true
+enabled = true
+content = """
+**ReviOS post-install guide**
+
+https://www.revi.cc/docs/post-install
+"""

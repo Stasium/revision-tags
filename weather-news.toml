@@ -1,0 +1,15 @@
+[weather-news]
+embed = true
+enabled = true
+content = """
+To remove the widgets, Windows Feeds and Interests feature from **Windows 11**,
+run the following commands in an terminal as administrator:
+
+```ps
+winget install --id 9MSSGKG348SP
+reg delete "HKLM\\SOFTWARE\\Policies\\Microsoft\\Windows\\Windows Feeds" /v "EnableFeeds" /f
+reg delete "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Feeds" /v "ShellFeedsTaskbarViewMode" /f
+reg delete "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced" /v "TaskbarDa" /f
+reg delete "HKLM\\SOFTWARE\\Policies\\Microsoft\\Dsh" /v "AllowNewsAndInterests" /f
+```
+"""
