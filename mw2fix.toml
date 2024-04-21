@@ -1,9 +1,12 @@
+[command]
 name = "mw2fix"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 **MW2 quick fix for older winvers**
 
 `reg add "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion" /v "UBR" /t REG_DWORD /d "789" /f`
 """
+
+[embed]
+enabled = true

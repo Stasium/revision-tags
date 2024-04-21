@@ -1,6 +1,6 @@
+[command]
 name = "edge"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 ## How to get Microsoft Edge working on ReviOS
@@ -10,3 +10,6 @@ content = """
 3. Open your Terminal again and run the command `winget install Microsoft.Edge`
 4. Edge should now be installed
 """
+
+[embed]
+enabled = true

@@ -1,7 +1,10 @@
+[command]
 name = "meme/hoverz"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 My little E-Girl 🥺👉👈 <:pepekiss:735443388253470741>
 """
+
+[embed]
+enabled = false

@@ -1,7 +1,10 @@
+[command]
 name = "upgfix"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = false
 content = """
 https://www.revi.cc/docs/iso/upgrade#possible-issues
 """
+
+[embed]
+enabled = true

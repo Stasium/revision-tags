@@ -1,7 +1,10 @@
+[command]
 name = "ublock"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 <https://ublockorigin.com/>
 """
+
+[embed]
+enabled = true

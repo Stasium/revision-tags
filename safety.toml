@@ -1,7 +1,10 @@
+[command]
 name = "safety"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 https://youtu.be/aJ37b2-OhH8
 """
+
+[embed]
+enabled = false

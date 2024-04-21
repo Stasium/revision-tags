@@ -1,10 +1,13 @@
+[command]
 name = "wallpaper/old"
-aliases = [ ]
-embed = true
-image = "https://revios.rignoa.com/img/dc/old-revios-wallpaper.png"
+keywords = [ ]
 enabled = true
 content = """
 **Old ReviOS Wallpaper in 4K**
 
 [16K Version here](https://cdn.discordapp.com/attachments/626772503473291295/1058452395614535850/old-revios-wallpaper.png)
 """
+
+[embed]
+enabled = true
+image = "https://revios.rignoa.com/img/dc/old-revios-wallpaper.png"

@@ -1,9 +1,12 @@
+[command]
 name = "veracrypt"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 If you choose VeraCrypt instead of BitLocker for full disk encryption and have trouble upgrading your Windows even though Windows recognizes the VeraCrypt driver, check out this link: https://github.com/th-wilde/veracrypt-w10-patcher
 
 Credits: [TheGenThreeMan](https://discord.com/channels/619835916139364383/1230567227225538603/1230567227225538603)
 """
+
+[embed]
+enabled = true

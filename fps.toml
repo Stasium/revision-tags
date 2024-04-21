@@ -1,6 +1,6 @@
+[command]
 name = "fps"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 **Does ReviOS increase FPS?**
@@ -11,3 +11,6 @@ ReviOS removes resource intensive drivers, services and background tasks, like R
 
 If you want a proper FPS boost, you should consider upgrading your hardware, as this will do the biggest difference.
 """
+
+[embed]
+enabled = true

@@ -1,6 +1,6 @@
+[command]
 name = "intelfix"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = false
 content = """
 The fix is mainly for users who you are having issues with scheduler on Intel 12+ gen CPUs.
@@ -20,3 +20,6 @@ powercfg -setacvalueindex scheme_current sub_processor HETEROPOLICY 0
 powercfg -setacvalueindex scheme_current sub_processor SCHEDPOLICY 2
 ```
 """
+
+[embed]
+enabled = true

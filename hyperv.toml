@@ -1,10 +1,13 @@
+[command]
 name = "hyperv"
-aliases = [ ]
-embed = true
-image = "https://media.discordapp.net/attachments/775322799677767680/1071736588888973312/image.png"
+keywords = [ ]
 enabled = true
 content = """
 **This has been fixed on ReviOS 23.02 and newer!**
 
 If you encounter an issue with Hyper-V like shown in the image below, try the following command in PowerShell **`Rename-Computer -NewName $env:computername`** after that restart your Computer.
 """
+
+[embed]
+enabled = true
+image = "https://media.discordapp.net/attachments/775322799677767680/1071736588888973312/image.png"

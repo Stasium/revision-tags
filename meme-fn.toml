@@ -1,8 +1,11 @@
+[command]
 name = "meme/fn"
-aliases = [ ]
-embed = true
-image = "https://media.tenor.com/0j-z-LWwhsQAAAAC/fish-fortnite.gif"
+keywords = [ ]
 enabled = true
 content = """
 *please uninstall the game*
 """
+
+[embed]
+enabled = true
+image = "https://media.tenor.com/0j-z-LWwhsQAAAAC/fish-fortnite.gif"

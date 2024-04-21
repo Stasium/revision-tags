@@ -1,7 +1,10 @@
+[command]
 name = "meme/lyssa"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = false
 content = """
 https://media.discordapp.net/attachments/775322799677767680/1152623629721403454/windows_activation_meme.png
 """
+
+[embed]
+enabled = false

@@ -1,6 +1,6 @@
+[command]
 name = "translators"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 **Translation Tools**
@@ -29,3 +29,6 @@ content = """
 <https://quest-app.appspot.com/>
 <https://www.systran.net/en/translate/>
 """
+
+[embed]
+enabled = true

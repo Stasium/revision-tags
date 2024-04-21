@@ -1,6 +1,6 @@
+[command]
 name = "backup"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 Before installing ReviOS, you should always make backups of your most important data, to carry over to the new install. This applies also when upgrading by reinstalling, or when coming from or going back to stock Windows.
@@ -11,3 +11,6 @@ Before installing ReviOS, you should always make backups of your most important 
 ‣ `C:\\ProgramData` (Software Configuration Files)
 ‣ `C:\\Windows\\Fonts` (all System and User Fonts)
 """
+
+[embed]
+enabled = true

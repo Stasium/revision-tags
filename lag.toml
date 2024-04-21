@@ -1,7 +1,10 @@
+[command]
 name = "lag"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 https://discord.gg/PfsdHaP
 """
+
+[embed]
+enabled = false

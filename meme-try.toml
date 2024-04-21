@@ -1,7 +1,10 @@
+[command]
 name = "meme/try"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 http://tryitands.ee/
 """
+
+[embed]
+enabled = false

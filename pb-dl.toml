@@ -1,7 +1,10 @@
+[command]
 name = "pb/dl"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 https://revi.cc/docs/playbook/installwindows/#downloading-the-windows-iso
 """
+
+[embed]
+enabled = false

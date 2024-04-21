@@ -1,8 +1,11 @@
+[command]
 name = "ventoy-config"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 **Revision Configuration for Ventoy**
 https://github.com/meetrevision/ventoy-config
 """
+
+[embed]
+enabled = true

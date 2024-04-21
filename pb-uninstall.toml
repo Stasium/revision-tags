@@ -1,6 +1,6 @@
+[command]
 name = "pb/uninstall"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 ## How to uninstall ReviOS
@@ -16,3 +16,6 @@ If the command completes without any errors, restart your PC. ReviOS should now 
 ⚠️〡This **will not** bring back removed APPX packages or revert registry modifications, only system components!
 📗〡To completely remove it, you will need to reinstall Windows.
 """
+
+[embed]
+enabled = true

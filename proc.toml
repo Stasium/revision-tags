@@ -1,7 +1,10 @@
+[command]
 name = "proc"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 https://zusier.xyz/blog/posts/process-count-doesnt-matter/
 """
+
+[embed]
+enabled = false

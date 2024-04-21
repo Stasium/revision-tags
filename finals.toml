@@ -1,6 +1,6 @@
+[command]
 name = "finals"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 **To Fix the EAC Error in The Finals do the following:**
@@ -9,3 +9,6 @@ content = """
 - Paste in the following: `reg add "HKLM\\SYSTEM\\CurrentControlSet\\Control\\CI\\Config" /v "VulnerableDriverBlocklistEnable" /t REG_DWORD /d "1" /f`
 - Reboot your PC
 """
+
+[embed]
+enabled = true

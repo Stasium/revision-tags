@@ -1,7 +1,10 @@
+[command]
 name = "hello"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 https://nohello.net/
 """
+
+[embed]
+enabled = false

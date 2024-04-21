@@ -1,9 +1,12 @@
+[command]
 name = "epicgames"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = false
 content = """
 **Alternative Epic Games Launcher**
 
 https://heroicgameslauncher.com/
 """
+
+[embed]
+enabled = true

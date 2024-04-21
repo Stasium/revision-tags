@@ -1,6 +1,6 @@
+[command]
 name = "pb"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 ## Playbooks are the future
@@ -16,3 +16,6 @@ If you've previously installed ReviOS from an ISO, you can [update your install]
 ## Getting Stock ISOs
 A direct link to stock Windows ISOs can be found [in our docs](https://revi.cc/docs/playbook/installwindows/#downloading-the-windows-iso)
 """
+
+[embed]
+enabled = true

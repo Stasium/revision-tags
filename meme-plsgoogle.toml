@@ -1,8 +1,11 @@
+[command]
 name = "meme/plsgoogle"
-aliases = [ ]
-embed = true
-image = "https://i.imgur.com/j1FgVb7.jpg"
+keywords = [ ]
 enabled = true
 content = """
 pls
 """
+
+[embed]
+enabled = true
+image = "https://i.imgur.com/j1FgVb7.jpg"

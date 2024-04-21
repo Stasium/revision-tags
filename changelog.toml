@@ -1,9 +1,12 @@
+[command]
 name = "changelog"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 **ReviOS changelogs**
 
 https://www.revi.cc/revios/changelog
 """
+
+[embed]
+enabled = true

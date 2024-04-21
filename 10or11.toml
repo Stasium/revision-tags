@@ -1,7 +1,6 @@
+[command]
 name = "10or11"
-aliases = [ ]
-embed = true
-image = "https://media.discordapp.net/attachments/626772503473291295/1009195071721181194/unknown.png"
+keywords = [ ]
 enabled = false
 content = """
 **There are no major differences between Windows 10 and Windows 11.** 
@@ -17,3 +16,7 @@ If these minor differences don't apply to or interest you, you can safely chose 
 *Graph shows Win10 vs Win11 Latency. Tested with Intel 10700kf and GTX 1070ti by Muren#6968*
 *Win10 - 21H2 LTSC (19044.1288) vs Win11 - 22H2 (22621.105)*
 """
+
+[embed]
+enabled = true
+image = "https://media.discordapp.net/attachments/626772503473291295/1009195071721181194/unknown.png"

@@ -1,7 +1,10 @@
+[command]
 name = "pb/edit"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 If you want to edit the playbook before applying, for example to change the wallpaper or change certain tweaks, refer to the [Playbook developer documentation](https://docs.ameliorated.io/developers.html).
 """
+
+[embed]
+enabled = true

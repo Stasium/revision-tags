@@ -1,6 +1,6 @@
+[command]
 name = "bluetooth"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 **Common bluetooth detection/connection issue fix**
@@ -13,3 +13,6 @@ Fix: Likely missing `bthtelemetry.dll`
 5. Move the file to C:\\Windows\\System32
 6. Restart
 """
+
+[embed]
+enabled = true

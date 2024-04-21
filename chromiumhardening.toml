@@ -1,7 +1,10 @@
+[command]
 name = "chromiumhardening"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 <https://github.com/dreammjow/ChromiumHardening>
 """
+
+[embed]
+enabled = true

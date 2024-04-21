@@ -1,6 +1,6 @@
+[command]
 name = "update-bug"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 ## Update Bug (0x800f0984/0x80073713)
@@ -8,3 +8,6 @@ If you're faced with this error when trying to update Windows, try the solution 
 
 [Credit to Sthaagg](https://discord.com/channels/619835916139364383/626772503473291295/1194950142508412959)
 """
+
+[embed]
+enabled = true

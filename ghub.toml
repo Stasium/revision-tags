@@ -1,9 +1,12 @@
+[command]
 name = "ghub"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 GHUB Alternative:
 
 <https://support.logi.com/hc/en-us/articles/360059641133>
 """
+
+[embed]
+enabled = true

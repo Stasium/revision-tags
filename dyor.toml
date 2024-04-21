@@ -1,6 +1,6 @@
+[command]
 name = "dyor"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 ⚠️ __DO YOUR OWN RESEARCH__ ⚠️ 
@@ -9,3 +9,6 @@ Before asking questions about hard- or software, make sure to **do your own rese
 
 **__Don't be lazy! You're asking other people to do your work!__**
 """
+
+[embed]
+enabled = true

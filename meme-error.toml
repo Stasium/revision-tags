@@ -1,7 +1,10 @@
+[command]
 name = "meme/error"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 https://just-read.it/
 """
+
+[embed]
+enabled = false

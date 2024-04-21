@@ -1,7 +1,10 @@
+[command]
 name = "meme/xander"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 https://media.discordapp.net/attachments/1069956640926867456/1103594980271984640/image.png
 """
+
+[embed]
+enabled = false

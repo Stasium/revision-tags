@@ -1,6 +1,6 @@
+[command]
 name = "splines"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 ## Stuck on reticulating splines? 
@@ -8,3 +8,6 @@ content = """
 2. find and terminate any Powershell and CMD processes (not AME Wizard itself)
 3. let AME finish, then rerun the playbook
 """
+
+[embed]
+enabled = true

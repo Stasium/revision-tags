@@ -1,7 +1,10 @@
+[command]
 name = "meme/ask"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 https://dontasktoask.com/
 """
+
+[embed]
+enabled = false

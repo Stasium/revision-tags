@@ -1,7 +1,6 @@
+[command]
 name = "verify"
-aliases = [ ]
-embed = true
-image = "https://i0.wp.com/pureinfotech.com/wp-content/uploads/2021/10/windows-11-iso-hash-powershell-result.webp"
+keywords = [ ]
 enabled = true
 content = """
 If your Windows installation is failing somewhere along the way, it's possible that your ISO file is **corrupted**. To make sure there were no issues during the download, you can **verify** the file using the following guide:
@@ -14,3 +13,7 @@ Get-FileHash C:\\PATH\\TO\\WINDOWS.ISO
 3. Compare the SHA256 (hash) **output** of the command with the hash **provided** with the ISO.
 (4.) If the outputs don't match, re-download the file and try again.
 """
+
+[embed]
+enabled = true
+image = "https://i0.wp.com/pureinfotech.com/wp-content/uploads/2021/10/windows-11-iso-hash-powershell-result.webp"

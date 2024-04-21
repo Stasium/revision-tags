@@ -1,8 +1,11 @@
+[command]
 name = "linpack"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 **Linpack Extended**
 https://github.com/BoringBoredom/Linpack-Extended
 """
+
+[embed]
+enabled = true

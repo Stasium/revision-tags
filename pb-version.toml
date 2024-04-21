@@ -1,7 +1,10 @@
+[command]
 name = "pb/version"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 https://github.com/meetrevision/playbook#-system-requirements
 """
+
+[embed]
+enabled = false

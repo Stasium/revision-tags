@@ -1,6 +1,6 @@
+[command]
 name = "pb/nightly"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 ## ReviOS Nightly builds
@@ -18,3 +18,6 @@ This is an **unofficial** fork of ReviOS, including the following features:
 
 Or, go directly to [releases](https://github.com/Pyenb/ReviOS_playbook_nightly_insider/releases/latest).
 """
+
+[embed]
+enabled = true

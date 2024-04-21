@@ -1,8 +1,11 @@
+[command]
 name = "gay"
-aliases = [ ]
-embed = true
-image = "https://cdn.discordapp.com/attachments/1088560389538721852/1114157799295950858/image.png"
+keywords = [ ]
 enabled = false
 content = """
 Just for you <@886350655378325544>
 """
+
+[embed]
+enabled = true
+image = "https://cdn.discordapp.com/attachments/1088560389538721852/1114157799295950858/image.png"

@@ -1,7 +1,10 @@
+[command]
 name = "meme/update"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 https://cdn.discordapp.com/attachments/626772503473291295/1229761316785492039/image.png?ex=6630db79&is=661e6679&hm=5883fceafec7fdfaa7a920f50297310bbe42ba5b5a171f885d4c0f181790fafc&
 """
+
+[embed]
+enabled = false

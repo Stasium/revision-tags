@@ -1,9 +1,12 @@
+[command]
 name = "cant"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 `can't`, `doesn't work`, `is broken` doesn't give us any clues what's going on on your system. You have to supply **detailed descriptions** as to what's going on, what's happening **exactly** when you encounter the issue(s), how you know it's not working, error messages and **any** other info you can give us. Without that, it is literally impossible for us to help you. 
 
 So, get to work, collect some information, then ask again.
 """
+
+[embed]
+enabled = true

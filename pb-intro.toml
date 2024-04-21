@@ -1,7 +1,10 @@
+[command]
 name = "pb/intro"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 https://revi.cc/docs/playbook/general
 """
+
+[embed]
+enabled = false

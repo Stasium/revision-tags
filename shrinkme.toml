@@ -1,7 +1,6 @@
+[command]
 name = "shrinkme"
-aliases = [ ]
-embed = true
-image = "https://media.discordapp.net/attachments/672162269202874370/1116619500826140683/beb411f642348768.PNG?width=1414&height=1038"
+keywords = [ ]
 enabled = false
 content = """
 **__Having trouble opening the shrinke.me links?__**
@@ -14,3 +13,7 @@ If you cannot open the ShrinkMe links from the download page due to any reason, 
 
 Staff **will not** hand out direct links if you ask about the page being broken.
 """
+
+[embed]
+enabled = true
+image = "https://media.discordapp.net/attachments/672162269202874370/1116619500826140683/beb411f642348768.PNG?width=1414&height=1038"

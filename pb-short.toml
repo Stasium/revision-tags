@@ -1,6 +1,6 @@
+[command]
 name = "pb/short"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 ## Installing ReviOS via Playbook - Summarized
@@ -12,3 +12,6 @@ content = """
 5. Use AME Wizard to apply the ReviOS playbook on top of stock Windows
 6. Profit
 """
+
+[embed]
+enabled = true

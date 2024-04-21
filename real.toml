@@ -1,7 +1,10 @@
+[command]
 name = "real"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = false
 content = """
 https://cdn.discordapp.com/attachments/1069956640926867456/1178729906176262295/image.png
 """
+
+[embed]
+enabled = false

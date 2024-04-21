@@ -1,9 +1,12 @@
+[command]
 name = "update"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 **Windows Update is not disabled** in ReviOS. Only the automatic update downloading and installation is disabled, and in Settings the **Windows Update menu is hidden**. It is not disabled completely because half of the OS communicates through this service, for example the Microsoft Store wouldn't work anymore.
 
 For more information, **please read the [related FAQ article](https://www.revi.cc/docs/faq/after/update)**
 """
+
+[embed]
+enabled = true

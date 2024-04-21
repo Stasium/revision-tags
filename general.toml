@@ -1,8 +1,11 @@
+[command]
 name = "general"
-aliases = [ ]
-embed = false
-image = "https://revios.rignoa.com/img/dc/general.png"
+keywords = [ ]
 enabled = true
 content = """
 https://media.discordapp.net/attachments/979051854195470386/1039531522371366932/image.png
 """
+
+[embed]
+enabled = false
+image = "https://revios.rignoa.com/img/dc/general.png"

@@ -1,7 +1,10 @@
+[command]
 name = "securityviolation"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 https://www.ventoy.net/en/doc_secure.html
 """
+
+[embed]
+enabled = true

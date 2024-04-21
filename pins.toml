@@ -1,7 +1,10 @@
+[command]
 name = "pins"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = false
 content = """
 https://revios.rignoa.com/img/dc/pins.png
 """
+
+[embed]
+enabled = false

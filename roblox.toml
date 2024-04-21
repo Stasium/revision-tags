@@ -1,6 +1,6 @@
+[command]
 name = "roblox"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = false
 content = """
 If you are having issues regarding to Roblox not working, try the following solutions here:
@@ -20,3 +20,6 @@ Link: <https://github.com/pizzaboxer/bloxstrap/releases>
 
 Thanks to <@544567870776934431>
 """
+
+[embed]
+enabled = true

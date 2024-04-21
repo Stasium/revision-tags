@@ -1,9 +1,12 @@
+[command]
 name = "defender"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 Defender is disabled by default on ReviOS for performance reasons. If you want to use it, you can enable it in the Revision Tool.
 
 Note that disabling it again is currently not as a easy as turning it off in the tool again. You have to follow the steps described in this guide here: https://revi.cc/docs/faq/after/defender
 """
+
+[embed]
+enabled = true

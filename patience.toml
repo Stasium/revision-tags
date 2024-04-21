@@ -1,6 +1,6 @@
+[command]
 name = "patience"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 We kindly request your patience and that you refrain from directly pinging individuals for assistance. It is important to understand that no one is obligated to provide help, as we all lead our own private lives beyond the realm of this platform. Additionally, many of us have professional commitments, including jobs, which may limit our availability to offer immediate support.
@@ -9,3 +9,6 @@ Rest assured that someone will come forward to help you as soon as they are will
 
 Your understanding in this matter is greatly appreciated.
 """
+
+[embed]
+enabled = true

@@ -1,6 +1,6 @@
+[command]
 name = "weather-news"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 To remove the widgets, Windows Feeds and Interests feature from **Windows 11**,
@@ -14,3 +14,6 @@ reg delete "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanc
 reg delete "HKLM\\SOFTWARE\\Policies\\Microsoft\\Dsh" /v "AllowNewsAndInterests" /f
 ```
 """
+
+[embed]
+enabled = true

@@ -1,6 +1,6 @@
+[command]
 name = "pb/update"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 ## Updating your install with Playbooks
@@ -11,3 +11,6 @@ content = """
 
 Read in the docs: https://revi.cc/docs/playbook/install#update
 """
+
+[embed]
+enabled = true

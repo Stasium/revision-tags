@@ -1,6 +1,6 @@
+[command]
 name = "download"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = false
 content = """
 **You can find all our download links here**
@@ -8,3 +8,6 @@ https://www.revi.cc/revios/download
 
 All you have to do is complete the captcha, wait 12 seconds, and you are on your way to the iso. If you encounter ads on the download links, or even download something other than the iso file, install an adblocker. We recommend [uBlock Origin](https://github.com/gorhill/uBlock#readme), and nothing more. If you have other adblockers, disable or remove them.
 """
+
+[embed]
+enabled = true

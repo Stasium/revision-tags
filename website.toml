@@ -1,9 +1,12 @@
+[command]
 name = "website"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 **Revision website**
 
 <https://www.revi.cc/>
 """
+
+[embed]
+enabled = true

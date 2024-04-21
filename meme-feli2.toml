@@ -1,7 +1,10 @@
+[command]
 name = "meme/feli2"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 https://cdn.discordapp.com/attachments/626772503473291295/1181913987789631498/image.png
 """
+
+[embed]
+enabled = false

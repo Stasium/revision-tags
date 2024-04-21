@@ -1,6 +1,6 @@
+[command]
 name = "mpo"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 Multi-Plane Overlay (MPO)
@@ -11,3 +11,6 @@ Nvidia has said users can disable MPO through the registry, but no permanent fix
 
 If you are using an GTX 16xx, RTX 3xxx or an AMD RX 5xxx or newer it is highly recommended to disable MPO, one way to do so is by using [Nvidia's method](https://nvidia.custhelp.com/app/answers/detail/a_id/5157) or by using the latest Revision-Tool.
 """
+
+[embed]
+enabled = true

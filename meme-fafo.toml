@@ -1,7 +1,10 @@
+[command]
 name = "meme/fafo"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 https://tenor.com/view/find-out-fuck-around-fuck-around-and-find-out-gif-27076170
 """
+
+[embed]
+enabled = false

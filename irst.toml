@@ -1,7 +1,10 @@
+[command]
 name = "irst"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 https://www.asus.com/us/support/faq/1044458/
 """
+
+[embed]
+enabled = true

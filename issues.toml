@@ -1,6 +1,6 @@
+[command]
 name = "issues"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = false
 content = """
 Windows 11: 
@@ -11,3 +11,6 @@ Windows 10:
 Known - <https://learn.microsoft.com/en-us/windows/release-health/status-windows-10-22h2>
 Resolved - <https://learn.microsoft.com/en-us/windows/release-health/resolved-issues-windows-10-22h2>
 """
+
+[embed]
+enabled = true

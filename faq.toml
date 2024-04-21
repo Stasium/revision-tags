@@ -1,8 +1,11 @@
+[command]
 name = "faq"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 **New and Updated FAQ**
 https://www.revi.cc/docs/faq/
 """
+
+[embed]
+enabled = true

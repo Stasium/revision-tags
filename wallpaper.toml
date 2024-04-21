@@ -1,8 +1,11 @@
+[command]
 name = "wallpaper"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 [ReviOS desktop wallpaper](https://raw.githubusercontent.com/meetrevision/playbook/main/src/Executables/Web/4K/Wallpaper/Windows/img0_3840x2160.jpg)
 [ReviOS lock screen wallpaper](https://raw.githubusercontent.com/meetrevision/playbook/main/src/Executables/Web/Screen/img100.jpg)
 """
+
+[embed]
+enabled = false

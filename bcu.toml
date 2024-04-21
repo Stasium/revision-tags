@@ -1,7 +1,10 @@
+[command]
 name = "bcu"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 https://www.bcuninstaller.com/
 """
+
+[embed]
+enabled = false

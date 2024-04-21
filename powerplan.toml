@@ -1,6 +1,6 @@
+[command]
 name = "powerplan"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 # **Revision Powerplan for ReviOS**
@@ -22,3 +22,6 @@ powercfg -setacvalueindex scheme_current sub_processor CPMINCORES1 100
 powercfg /setactive scheme_current
 ```
 """
+
+[embed]
+enabled = true

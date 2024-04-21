@@ -1,6 +1,6 @@
+[command]
 name = "iso/pb"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = false
 content = """
 ## You want to go from stock to ReviOS without resetting?
@@ -12,3 +12,6 @@ content = """
 ## You're already on ReviOS and want to upgrade to a newer ReviOS version?
 ### [Use the upgrade ISO](https://www.revi.cc/docs/iso/upgrade)
 """
+
+[embed]
+enabled = true

@@ -1,6 +1,6 @@
+[command]
 name = "topic"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 Please keep the current topic relevant to the channel. If you need help, check out <#626772969611460619>. Otherwise, please move to the appropriate channel or DMs.
@@ -9,3 +9,6 @@ Please keep the current topic relevant to the channel. If you need help, check o
 
 Continuing to discuss an irrelevant topic can result in a temporary mute or ban from the community channels!
 """
+
+[embed]
+enabled = true

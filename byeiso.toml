@@ -1,6 +1,6 @@
+[command]
 name = "byeiso"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = false
 content = """
 ## ISOs are now deprecated!
@@ -17,3 +17,6 @@ You can transfer without problems to a playbook installation:
 3. disable updates through the Revision tool
 4. run the newest avaiable Playbook in the AME Wizard
 """
+
+[embed]
+enabled = true

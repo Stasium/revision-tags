@@ -1,9 +1,12 @@
+[command]
 name = "vcredist"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 **AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes**
 
 https://www.revi.cc/docs/post-install#visual-c-runtime
 """
+
+[embed]
+enabled = true

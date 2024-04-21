@@ -1,6 +1,6 @@
+[command]
 name = "tutorial"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 **Help to install and update ReviOS using AME Wizard available here:**
@@ -15,3 +15,6 @@ https://www.revi.cc/docs/playbook/install
 🟥 Chinese (Traditional) Video by <@809771061742010408>
 <https://youtu.be/pQj2GIyD89Y>
 """
+
+[embed]
+enabled = true

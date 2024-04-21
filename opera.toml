@@ -1,7 +1,10 @@
+[command]
 name = "opera"
-aliases = [ ]
-embed = false
+keywords = [ ]
 enabled = true
 content = """
 https://rentry.co/operagx
 """
+
+[embed]
+enabled = false

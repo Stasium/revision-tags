@@ -1,8 +1,11 @@
+[command]
 name = "invite"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 **Permanent Invite Link**
 https://discord.gg/962y4pU
 """
+
+[embed]
+enabled = true

@@ -1,6 +1,6 @@
+[command]
 name = "office"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 **Office Tool Plus**
@@ -8,3 +8,6 @@ A powerful and useful tool for Office deployments.
 
 <https://otp.landian.vip/en-us/download.html>
 """
+
+[embed]
+enabled = true

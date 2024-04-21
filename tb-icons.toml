@@ -1,7 +1,10 @@
+[command]
 name = "tb-icons"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 https://support.microsoft.com/en-us/windows/customize-the-taskbar-notification-area-e159e8d2-9ac5-b2bd-61c5-bb63c1d437c3
 """
+
+[embed]
+enabled = true

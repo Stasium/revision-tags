@@ -1,8 +1,11 @@
+[command]
 name = "english"
-aliases = [ ]
-embed = true
-image = "https://cdn.discordapp.com/attachments/979051854195470386/1065610527138660453/english-only.gif"
+keywords = [ ]
 enabled = true
 content = """
 **Please keep the chat English only!**
 """
+
+[embed]
+enabled = true
+image = "https://cdn.discordapp.com/attachments/979051854195470386/1065610527138660453/english-only.gif"

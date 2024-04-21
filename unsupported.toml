@@ -1,6 +1,6 @@
+[command]
 name = "unsupported"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 **As of the latest release of ReviOS**
@@ -18,3 +18,6 @@ Data Usage page in Settings
 
 [Related FAQ article](https://www.revi.cc/docs/faq/before/unsupported)
 """
+
+[embed]
+enabled = true

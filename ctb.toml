@@ -1,6 +1,6 @@
+[command]
 name = "ctb"
-aliases = [ ]
-embed = true
+keywords = [ ]
 enabled = true
 content = """
 **Recommended tweaks**
@@ -10,3 +10,6 @@ https://github.com/amitxv
 https://github.com/djdallmann/GamingPCSetup/
 https://github.com/BoringBoredom/PC-Optimization-Hub
 """
+
+[embed]
+enabled = true
