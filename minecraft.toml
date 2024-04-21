@@ -1,4 +1,5 @@
-[minecraft]
+name = "minecraft"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

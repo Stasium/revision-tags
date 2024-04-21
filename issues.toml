@@ -1,4 +1,5 @@
-[issues]
+name = "issues"
+aliases = [ ]
 embed = true
 enabled = false
 content = """

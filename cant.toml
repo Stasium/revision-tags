@@ -1,4 +1,5 @@
-[cant]
+name = "cant"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

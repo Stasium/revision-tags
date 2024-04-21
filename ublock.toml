@@ -1,4 +1,5 @@
-[ublock]
+name = "ublock"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

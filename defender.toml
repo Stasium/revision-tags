@@ -1,4 +1,5 @@
-[defender]
+name = "defender"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

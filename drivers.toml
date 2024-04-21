@@ -1,4 +1,5 @@
-[drivers]
+name = "drivers"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

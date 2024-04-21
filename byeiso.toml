@@ -1,4 +1,5 @@
-[byeiso]
+name = "byeiso"
+aliases = [ ]
 embed = true
 enabled = false
 content = """

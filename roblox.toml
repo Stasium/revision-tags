@@ -1,4 +1,5 @@
-[roblox]
+name = "roblox"
+aliases = [ ]
 embed = true
 enabled = false
 content = """

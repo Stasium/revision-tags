@@ -1,4 +1,5 @@
-[ventoy-config]
+name = "ventoy-config"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

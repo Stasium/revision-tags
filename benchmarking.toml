@@ -1,4 +1,5 @@
-[benchmarking]
+name = "benchmarking"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

@@ -1,4 +1,5 @@
-[meme-fn]
+name = "meme/fn"
+aliases = [ ]
 embed = true
 image = "https://media.tenor.com/0j-z-LWwhsQAAAAC/fish-fortnite.gif"
 enabled = true

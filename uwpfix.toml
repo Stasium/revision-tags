@@ -1,4 +1,5 @@
-[uwpfix]
+name = "uwpfix"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

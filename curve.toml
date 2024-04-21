@@ -1,4 +1,5 @@
-[curve]
+name = "curve"
+aliases = [ ]
 embed = true
 image = "https://i.imgur.com/mkzM6VQ.png"
 enabled = true

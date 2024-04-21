@@ -1,4 +1,5 @@
-[update-fix]
+name = "update-fix"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

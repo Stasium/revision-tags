@@ -1,4 +1,5 @@
-[rufus]
+name = "rufus"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

@@ -1,4 +1,5 @@
-[ownthread]
+name = "ownthread"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

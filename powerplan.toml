@@ -1,4 +1,5 @@
-[powerplan]
+name = "powerplan"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

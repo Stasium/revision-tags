@@ -1,4 +1,5 @@
-[mw2fix]
+name = "mw2fix"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

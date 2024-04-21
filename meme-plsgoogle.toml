@@ -1,4 +1,5 @@
-[meme-plsgoogle]
+name = "meme/plsgoogle"
+aliases = [ ]
 embed = true
 image = "https://i.imgur.com/j1FgVb7.jpg"
 enabled = true

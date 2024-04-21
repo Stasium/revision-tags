@@ -1,4 +1,5 @@
-[docs]
+name = "docs"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

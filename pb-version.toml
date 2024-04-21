@@ -1,4 +1,5 @@
-[pb-version]
+name = "pb/version"
+aliases = [ ]
 embed = false
 enabled = true
 content = """

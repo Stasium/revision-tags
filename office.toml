@@ -1,4 +1,5 @@
-[office]
+name = "office"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

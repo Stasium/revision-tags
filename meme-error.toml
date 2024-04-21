@@ -1,4 +1,5 @@
-[meme-error]
+name = "meme/error"
+aliases = [ ]
 embed = false
 enabled = true
 content = """

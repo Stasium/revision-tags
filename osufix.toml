@@ -1,4 +1,5 @@
-[osufix]
+name = "osufix"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

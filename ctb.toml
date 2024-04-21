@@ -1,4 +1,5 @@
-[ctb]
+name = "ctb"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

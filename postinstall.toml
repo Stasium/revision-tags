@@ -1,4 +1,5 @@
-[postinstall]
+name = "postinstall"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

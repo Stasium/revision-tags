@@ -1,4 +1,5 @@
-[unsupported]
+name = "unsupported"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

@@ -1,4 +1,5 @@
-[wallpaper]
+name = "wallpaper"
+aliases = [ ]
 embed = false
 enabled = true
 content = """

@@ -1,4 +1,5 @@
-[firefox]
+name = "firefox"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

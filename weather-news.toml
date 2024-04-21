@@ -1,4 +1,5 @@
-[weather-news]
+name = "weather-news"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

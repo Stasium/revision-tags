@@ -1,4 +1,5 @@
-[linpack]
+name = "linpack"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

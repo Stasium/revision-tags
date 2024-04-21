@@ -1,4 +1,5 @@
-[donate]
+name = "donate"
+aliases = [ ]
 embed = true
 image = "https://cdn.discordapp.com/attachments/775322799677767680/1047143743163211867/unknown.png"
 enabled = true

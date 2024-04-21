@@ -1,4 +1,5 @@
-[bluetooth]
+name = "bluetooth"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

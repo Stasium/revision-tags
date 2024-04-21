@@ -1,4 +1,5 @@
-[bcu]
+name = "bcu"
+aliases = [ ]
 embed = false
 enabled = true
 content = """

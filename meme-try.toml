@@ -1,4 +1,5 @@
-[meme-try]
+name = "meme/try"
+aliases = [ ]
 embed = false
 enabled = true
 content = """

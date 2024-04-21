@@ -1,4 +1,5 @@
-[gigameme]
+name = "gigameme"
+aliases = [ ]
 embed = true
 image = "https://cdn.discordapp.com/attachments/626772503473291295/1081502611494146128/Screenshot_20230303_224157_Brave.jpg"
 enabled = false

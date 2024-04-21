@@ -1,4 +1,5 @@
-[meme-fafo]
+name = "meme/fafo"
+aliases = [ ]
 embed = false
 enabled = true
 content = """

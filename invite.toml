@@ -1,4 +1,5 @@
-[invite]
+name = "invite"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

@@ -1,4 +1,5 @@
-[pb-short]
+name = "pb/short"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

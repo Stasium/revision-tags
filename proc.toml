@@ -1,4 +1,5 @@
-[proc]
+name = "proc"
+aliases = [ ]
 embed = false
 enabled = true
 content = """

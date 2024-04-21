@@ -1,4 +1,5 @@
-[opera]
+name = "opera"
+aliases = [ ]
 embed = false
 enabled = true
 content = """

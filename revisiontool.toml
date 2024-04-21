@@ -1,4 +1,5 @@
-[revisiontool]
+name = "revisiontool"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

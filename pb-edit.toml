@@ -1,4 +1,5 @@
-[pb-edit]
+name = "pb/edit"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

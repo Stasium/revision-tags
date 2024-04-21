@@ -1,4 +1,5 @@
-[irst]
+name = "irst"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

@@ -1,4 +1,5 @@
-[games]
+name = "games"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

@@ -1,4 +1,5 @@
-[faceit]
+name = "faceit"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

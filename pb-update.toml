@@ -1,4 +1,5 @@
-[pb-update]
+name = "pb/update"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

@@ -1,4 +1,5 @@
-[sdio]
+name = "sdio"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

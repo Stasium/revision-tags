@@ -1,4 +1,5 @@
-[10or11]
+name = "10or11"
+aliases = [ ]
 embed = true
 image = "https://media.discordapp.net/attachments/626772503473291295/1009195071721181194/unknown.png"
 enabled = false

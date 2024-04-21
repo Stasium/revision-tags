@@ -1,4 +1,5 @@
-[chromiumhardening]
+name = "chromiumhardening"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

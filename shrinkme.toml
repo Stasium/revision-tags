@@ -1,4 +1,5 @@
-[shrinkme]
+name = "shrinkme"
+aliases = [ ]
 embed = true
 image = "https://media.discordapp.net/attachments/672162269202874370/1116619500826140683/beb411f642348768.PNG?width=1414&height=1038"
 enabled = false

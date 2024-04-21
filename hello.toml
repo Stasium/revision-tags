@@ -1,4 +1,5 @@
-[hello]
+name = "hello"
+aliases = [ ]
 embed = false
 enabled = true
 content = """

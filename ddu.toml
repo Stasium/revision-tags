@@ -1,4 +1,5 @@
-[ddu]
+name = "ddu"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

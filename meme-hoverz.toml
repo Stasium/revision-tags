@@ -1,4 +1,5 @@
-[meme-hoverz]
+name = "meme/hoverz"
+aliases = [ ]
 embed = false
 enabled = true
 content = """

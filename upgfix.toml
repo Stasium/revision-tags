@@ -1,4 +1,5 @@
-[upgfix]
+name = "upgfix"
+aliases = [ ]
 embed = true
 enabled = false
 content = """

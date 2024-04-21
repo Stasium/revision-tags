@@ -1,4 +1,5 @@
-[wallpaper-old]
+name = "wallpaper/old"
+aliases = [ ]
 embed = true
 image = "https://revios.rignoa.com/img/dc/old-revios-wallpaper.png"
 enabled = true

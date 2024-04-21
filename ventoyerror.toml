@@ -1,4 +1,5 @@
-[ventoyerror]
+name = "ventoyerror"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

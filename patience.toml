@@ -1,4 +1,5 @@
-[patience]
+name = "patience"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

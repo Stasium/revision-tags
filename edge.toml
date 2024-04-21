@@ -1,4 +1,5 @@
-[edge]
+name = "edge"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

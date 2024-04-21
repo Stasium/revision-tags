@@ -1,4 +1,5 @@
-[wallpaper-anime]
+name = "wallpaper/anime"
+aliases = [ ]
 embed = false
 enabled = true
 content = """

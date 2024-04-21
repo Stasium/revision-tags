@@ -1,4 +1,5 @@
-[meme-feli]
+name = "meme/feli"
+aliases = [ ]
 embed = true
 image = "https://cdn.discordapp.com/attachments/1168259741634543676/1169677948203315270/image.png?ex=6556467a&is=6543d17a&hm=dcf9e860fdbb22ce2ab3eeb1ec05a99eeeeded53fde07ff228d9336ea79b9894&"
 enabled = true

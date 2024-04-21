@@ -1,4 +1,5 @@
-[unicode]
+name = "unicode"
+aliases = [ ]
 embed = true
 image = "https://cdn.discordapp.com/attachments/626772969611460619/939447040126099456/unknown.png"
 enabled = true

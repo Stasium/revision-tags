@@ -1,4 +1,5 @@
-[latencymon]
+name = "latencymon"
+aliases = [ ]
 embed = false
 enabled = true
 content = """

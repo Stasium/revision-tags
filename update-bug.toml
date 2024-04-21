@@ -1,4 +1,5 @@
-[update-bug]
+name = "update-bug"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

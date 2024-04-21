@@ -1,4 +1,5 @@
-[hyperv]
+name = "hyperv"
+aliases = [ ]
 embed = true
 image = "https://media.discordapp.net/attachments/775322799677767680/1071736588888973312/image.png"
 enabled = true

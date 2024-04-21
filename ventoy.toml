@@ -1,4 +1,5 @@
-[ventoy]
+name = "ventoy"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

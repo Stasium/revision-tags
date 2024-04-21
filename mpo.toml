@@ -1,4 +1,5 @@
-[mpo]
+name = "mpo"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

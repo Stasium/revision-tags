@@ -1,4 +1,5 @@
-[real]
+name = "real"
+aliases = [ ]
 embed = false
 enabled = false
 content = """

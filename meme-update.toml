@@ -1,4 +1,5 @@
-[meme-update]
+name = "meme/update"
+aliases = [ ]
 embed = false
 enabled = true
 content = """

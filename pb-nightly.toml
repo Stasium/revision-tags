@@ -1,4 +1,5 @@
-[pb-nightly]
+name = "pb/nightly"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

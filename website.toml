@@ -1,4 +1,5 @@
-[website]
+name = "website"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

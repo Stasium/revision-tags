@@ -1,4 +1,5 @@
-[tutorial]
+name = "tutorial"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

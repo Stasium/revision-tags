@@ -1,4 +1,5 @@
-[splines]
+name = "splines"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

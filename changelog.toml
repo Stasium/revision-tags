@@ -1,4 +1,5 @@
-[changelog]
+name = "changelog"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

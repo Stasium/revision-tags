@@ -1,4 +1,5 @@
-[safety]
+name = "safety"
+aliases = [ ]
 embed = false
 enabled = true
 content = """

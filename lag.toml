@@ -1,4 +1,5 @@
-[lag]
+name = "lag"
+aliases = [ ]
 embed = false
 enabled = true
 content = """

@@ -1,4 +1,5 @@
-[tb-icons]
+name = "tb-icons"
+aliases = [ ]
 embed = true
 enabled = true
 content = """

@@ -1,4 +1,5 @@
-[download]
+name = "download"
+aliases = [ ]
 embed = true
 enabled = false
 content = """

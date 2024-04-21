@@ -1,4 +1,5 @@
-[blank]
+name = "blank"
+aliases = [ ]
 embed = true
 enabled = false
 content = """

@@ -1,4 +1,5 @@
-[eta]
+name = "eta"
+aliases = [ ]
 embed = true
 image = "https://media.discordapp.net/attachments/1099761105552814100/1121715631973220393/download.jpg"
 enabled = true

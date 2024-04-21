@@ -1,4 +1,5 @@
-[meme-read]
+name = "meme/read"
+aliases = [ ]
 embed = false
 enabled = true
 content = """
