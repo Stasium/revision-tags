@@ -1,0 +1,9 @@
+[command]
+name = "webhook-test"
+keywords = [ ]
+enabled = true
+content = "Webhook pull worked"
+
+[embed]
+enabled = true
+color = #b4befe
