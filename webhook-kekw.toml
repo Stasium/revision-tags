@@ -1,8 +1,0 @@
-[command]
-name = "webhook-kekw"
-keywords = [ ]
-enabled = true
-content = "Test command to showcase the real-time GitHub webhook notifications for updating the custom commands."
-
-[embed]
-enabled = false
