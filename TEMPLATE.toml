@@ -1,0 +1,31 @@
+# This is the main section for defining a command configuration.
+[command]
+
+# The name of the command. This is how the command will be referenced or called.
+name = "template"
+
+# Keywords associated with the command. This is an empty array and can be populated with relevant keywords.
+keywords = [ ]
+
+# Boolean flag to indicate whether the command is enabled or not.
+enabled = true
+
+# The actual content or message that the command will output. This can be a multiline string.
+content = """
+Content for the Command
+"""
+
+# This section defines the configuration for embedding content.
+[embed]
+
+# Boolean flag to indicate whether embedding is enabled or not.
+enabled = true
+
+# (Optional) The color to be used in the embed, specified as a hex color code.
+# This field is not mandatory as it will default to the Revision's Red Color if not provided.
+# Ensure the color code is valid (e.g., "#FFFFFF" for white).
+color = "#FFFFF"
+
+# (Optional) The URL of an image to be displayed in the embed.
+# This should be a valid link to an image. If not needed, this line can be omitted.
+image = "https://example.com/image.png"
