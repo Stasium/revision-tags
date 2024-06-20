@@ -3,7 +3,7 @@ name = "weather-news"
 keywords = [ ]
 enabled = true
 content = """
-To remove the widgets, Windows Feeds and Interests feature from **Windows 11**,
+To reinstall the widgets, Windows Feeds and Interests feature in **Windows 11**,
 run the following commands in an terminal as administrator:
 
 ```ps
