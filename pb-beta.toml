@@ -1,0 +1,10 @@
+[command]
+name = "pb/beta"
+keywords = [ ]
+enabled = true
+content = """
+https://github.com/melo936/playbook/releases
+"""
+
+[embed]
+enabled = false

@@ -10,7 +10,7 @@ General Answer: **no**. They are usually of no benefit to you and will only limi
 When installing Stock Windows 11, the [Revision Ventoy Config](<https://revi.cc/docs/playbook/installstock/#apply-revios-config>) disables the TPM+SB requirements, so you can install W11 with them disabled.
 
 ### Exception
-Valorant and FaceIT require both TPM and SB to be **enabled** when running on Windows 11. If you plan to play these games, it is recommended to **stick with Windows 10** instead. If you really want W11 though, you will have to enable TPM and SB.
+Valorant, League of Legends and FaceIT require both TPM and SB to be **enabled** when running on Windows 11. If you plan to play these games, it is recommended to **stick with Windows 10** instead. If you really want W11 though, you will have to enable TPM and SB.
 """
 
 [embed]

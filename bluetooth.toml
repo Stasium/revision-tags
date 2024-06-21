@@ -1,7 +1,7 @@
 [command]
 name = "bluetooth"
 keywords = [ ]
-enabled = true
+enabled = false
 content = """
 **Common bluetooth detection/connection issue fix**
 Fix: Likely missing `bthtelemetry.dll`

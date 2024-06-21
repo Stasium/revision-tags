@@ -11,4 +11,4 @@ In addition, the Playbook allows you to choose one of four commonly used browser
 """
 
 [embed]
-enabled = false
+enabled = true

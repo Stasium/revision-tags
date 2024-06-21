@@ -3,7 +3,7 @@ name = "ownthread"
 keywords = [ ]
 enabled = true
 content = """
-Please don't hijack this thread. Create your own thread over at <#626772969611460619>
+Please don't hijack this thread. Create your own thread over at <#1233699549781164103>
 """
 
 [embed]
