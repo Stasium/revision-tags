@@ -1,6 +1,6 @@
 [command]
 name = "tweaks"
-keywords = [ctb]
+keywords = ["ctb"]
 enabled = true
 content = """
 # Recommended Tweaks
