@@ -1,7 +1,7 @@
 [command]
 name = "ctb"
 keywords = [ ]
-enabled = true
+enabled = false
 content = """
 **Recommended tweaks**
 
