@@ -2,7 +2,7 @@
 [command]
 
 # The name of the command. This is how the command will be referenced or called.
-name = "template
+name = "template"
 
 # Keywords associated with the command. This is an empty array and can be populated with relevant keywords.
 keywords = [ ]
@@ -28,4 +28,4 @@ color = "#FFFFF"
 
 # (Optional) The URL of an image to be displayed in the embed.
 # This should be a valid link to an image. If not needed, this line can be omitted.
-image = "https://example.com/image.png"
+image = "https://example.com/image.png
