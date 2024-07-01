@@ -1,0 +1,18 @@
+[command]
+name = "mixing"
+keywords = [ ]
+enabled = true
+content = """
+**Disclaimer**
+
+Please be advised that our Playbook is designed to be used *only* with ReviOS or stock Windows ISOs. Using the Playbook on any other Windows ISO can result in an unpredictable mix of tweaks, potentially causing a variety of unsolvable issues.
+
+Additionally, mixing tweaks by applying multiple Playbooks or running other "tweaking" tools is not supported by us. Such practices can lead to conflicts and system instability.
+
+If you are currently using a different Windows ISO, you must perform a clean install of a stock Windows ISO before running the Playbook.
+
+We do not support or provide assistance for any issues arising from the use of the Playbook on non-supported Windows ISOs or from mixing tweaks.
+"""
+
+[embed]
+enabled = true

@@ -1,0 +1,16 @@
+[command]
+name = "paidtweaks"
+keywords = [ ]
+enabled = true
+content = """
+**Disclaimer**
+
+Please be advised that you should *never* **ever** pay for any tweaks or tweaking tools. All legitimate tweaking resources should be freely available.
+
+Do not be influenced by anything you see on social media platforms such as Twitter, TikTok, Instagram, etc. Many offers and promotions on these platforms can be misleading or fraudulent.
+
+Always exercise caution and rely only on trusted sources for any tweaks or tools.
+"""
+
+[embed]
+enabled = true
