@@ -3,8 +3,12 @@ name = "roblox"
 keywords = [ ]
 enabled = true
 content = """
-If Roblox wont open, have a look at this help section from AtlasOS: https://docs.atlasos.net/faq-and-troubleshooting/common-questions/roblox-not-opening
+## Roblox wont open 
+Multiple users have reported that Roblox fails to launch when your time and timezone are not set properly. Go into your clock settings and make sure the time is correct, then attempt launching Roblox again.
+
+If this does not fix the issue, have a look at this help section from AtlasOS: https://docs.atlasos.net/faq-and-troubleshooting/common-questions/roblox-not-opening
 """
 
 [embed]
 enabled = true
+image = "https://www.guidingtech.com/wp-content/uploads/synchronize-windows-10-time-microsoft-server-01_4d470f76dc99e18ad75087b1b8410ea9.png"
