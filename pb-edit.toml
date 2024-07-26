@@ -4,6 +4,8 @@ keywords = [ ]
 enabled = true
 content = """
 If you want to edit the playbook before applying, for example to change the wallpaper or change certain tweaks, refer to the [Playbook developer documentation](https://docs.ameliorated.io/developers.html).
+
+Please note that you have to respect the [ReviOS Playbook License](https://creativecommons.org/licenses/by-nc-sa/4.0/) if you plan to publish a modification of our playbook. 
 """
 
 [embed]
