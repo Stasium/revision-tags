@@ -4,6 +4,6 @@ keywords = [ ]
 enabled = true
 content = """
 Content for the Command
-"""
+""
 [embed]
 enabled = true
