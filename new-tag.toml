@@ -1,9 +1,0 @@
-[command]
-name = "new-tag"
-keywords = [ ]
-enabled = true
-content = """
-Content for the Command
-""
-[embed]
-enabled = true
