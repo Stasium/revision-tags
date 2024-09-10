@@ -3,7 +3,7 @@ name = "proc"
 keywords = [ ]
 enabled = true
 content = """
-https://zusier.xyz/blog/posts/process-count-doesnt-matter/
+https://web.archive.org/web/20240207202953/https://zusier.xyz/blog/posts/process-count-doesnt-matter/
 """
 
 [embed]
