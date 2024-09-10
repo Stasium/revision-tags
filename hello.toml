@@ -4,7 +4,7 @@ keywords = [ ]
 enabled = true
 content = """
 https://nohello.net/
-"""
+""
 
 [embed]
 enabled = false
