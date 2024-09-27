@@ -1,6 +1,6 @@
 [command]
 name = "10or11"
-keywords = [ ]
+keywords = ["Windows10", "Windows11", "performance", "latency"]
 enabled = false
 content = """
 **There are no major differences between Windows 10 and Windows 11.** 

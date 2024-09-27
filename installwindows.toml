@@ -1,9 +1,9 @@
 [command]
-name = "pb/version"
+name = "installwindows"
 keywords = [ ]
 enabled = true
 content = """
-https://github.com/meetrevision/playbook#-system-requirements
+https://revi.cc/docs/playbook/installwindows/
 """
 
 [embed]

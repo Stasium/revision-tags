@@ -3,7 +3,7 @@ name = "update-fix"
 keywords = [ ]
 enabled = true
 content = """
-In case you are having issues with installing the new updates, use the following commands to repair damaged system files:
+In case you are having issues with installing a Windows update, use the following commands to attempt to fix the issue:
 
 - `DISM /Online /Cleanup-Image /RestoreHealth`
 - `SFC /scannow` 

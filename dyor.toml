@@ -1,6 +1,6 @@
 [command]
 name = "dyor"
-keywords = [ ]
+keywords = ["research", "questions", "lazy", "search"]
 enabled = true
 content = """
 ⚠️ __DO YOUR OWN RESEARCH__ ⚠️ 

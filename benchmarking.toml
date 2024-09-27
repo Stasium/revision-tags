@@ -1,6 +1,6 @@
 [command]
 name = "benchmarking"
-keywords = [ ]
+keywords = ["benchmark", "frame-time", "analysis"]
 enabled = true
 content = """
 https://boringboredom.github.io/Frame-Time-Analysis/

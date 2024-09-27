@@ -1,9 +1,9 @@
 [command]
-name = "pb/intro"
+name = "no-opera"
 keywords = [ ]
 enabled = true
 content = """
-https://revi.cc/docs/playbook/general
+https://rentry.co/operagx
 """
 
 [embed]
