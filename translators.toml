@@ -1,6 +1,6 @@
 [command]
 name = "translators"
-keywords = [ ]
+keywords = ["english", "languages"]
 enabled = true
 content = """
 **Translation Tools**

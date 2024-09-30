@@ -1,6 +1,6 @@
 [command]
 name = "mpo"
-keywords = [ ]
+keywords = ["Multi-Plane Overlay", "tweaks"]
 enabled = true
 content = """
 Multi-Plane Overlay (MPO)

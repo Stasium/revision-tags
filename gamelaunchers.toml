@@ -1,0 +1,14 @@
+[command]
+name = "gamelaunchers"
+keywords = ["epic games", "roblox", "minecraft"]
+enabled = true
+content = """
+## Game Launchers
+
+If you are having trouble with any of your game launchers, feel free to check out these alternatives:
+
+https://www.revi.cc/docs/faq/after/game-launchers
+"""
+
+[embed]
+enabled = true

@@ -1,6 +1,6 @@
 [command]
 name = "firefox"
-keywords = [ ]
+keywords = ["browser", "web", "internet"]
 enabled = true
 content = """
 To get rid off **all** of your Firefox bookmarks, opne a new terminal as administrator and paste the following into it:

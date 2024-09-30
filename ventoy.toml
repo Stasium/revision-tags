@@ -1,6 +1,6 @@
 [command]
 name = "ventoy"
-keywords = [ ]
+keywords = ["usb", "boot"]
 enabled = true
 content = """
 **Ventoy is an open source tool to create bootable USB drives.**

@@ -1,11 +1,11 @@
 [command]
 name = "ghub"
-keywords = [ ]
-enabled = true
+keywords = ["logitech"]
+enabled = false
 content = """
 GHUB Alternative:
 
-<https://support.logi.com/hc/en-us/articles/360059641133>
+https://support.logi.com/hc/en-us/articles/360059641133
 """
 
 [embed]

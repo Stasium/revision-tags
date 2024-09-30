@@ -1,6 +1,6 @@
 [command]
-name = "tb-icons"
-keywords = [ ]
+name = "taskbar-icons"
+keywords = ["taskbar"]
 enabled = true
 content = """
 https://support.microsoft.com/en-us/windows/customize-the-taskbar-notification-area-e159e8d2-9ac5-b2bd-61c5-bb63c1d437c3

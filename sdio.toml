@@ -1,6 +1,6 @@
 [command]
 name = "sdio"
-keywords = [ ]
+keywords = ["drivers", "snappy driver installer origin"]
 enabled = true
 content = """
 ***__As a last resort__*** you can use Snappy Driver Installer Origin (SDIO) to install your drivers.

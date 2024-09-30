@@ -1,9 +1,9 @@
 [command]
 name = "eta"
-keywords = [ ]
+keywords = ["release", "date"]
 enabled = true
 content = """
-[whenever dreamm wants ](https://discord.com/channels/619835916139364383/974021125933772830/998640911674253352)
+[whenever dreamm wants](https://discord.com/channels/619835916139364383/974021125933772830/998640911674253352)
 
 ~ dream - 07/18/2022
 """

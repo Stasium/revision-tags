@@ -1,7 +1,7 @@
 [command]
 name = "win10-ltsc"
 keywords = [ ]
-enabled = true
+enabled = false
 content = """
 https://youtu.be/OYvM74X7V3o
 """

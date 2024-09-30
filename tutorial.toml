@@ -1,6 +1,6 @@
 [command]
 name = "tutorial"
-keywords = [ ]
+keywords = ["how to", "guide", "help"]
 enabled = true
 content = """
 **Help to install and update ReviOS using AME Wizard available here:**

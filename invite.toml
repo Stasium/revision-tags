@@ -1,6 +1,6 @@
 [command]
 name = "invite"
-keywords = [ ]
+keywords = ["discord", "link"]
 enabled = true
 content = """
 **Permanent Invite Link**

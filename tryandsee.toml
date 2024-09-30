@@ -1,6 +1,6 @@
 [command]
 name = "tryandsee"
-keywords = [ ]
+keywords = ["try it and see", "error", "help"]
 enabled = true
 content = """
 https://tryitands.ee/

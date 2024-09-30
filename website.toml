@@ -1,11 +1,11 @@
 [command]
 name = "website"
-keywords = [ ]
+keywords = ["docs", "documentation", "revios", "project"]
 enabled = true
 content = """
 **Revision website**
 
-<https://www.revi.cc/>
+https://www.revi.cc/
 """
 
 [embed]

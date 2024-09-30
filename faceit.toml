@@ -1,6 +1,6 @@
 [command]
 name = "faceit"
-keywords = [ ]
+keywords = ["game", "csgo", "overwatch", "valorant"]
 enabled = true
 content = """
 FACEIT is most likely only supported by the latest versions of Windows 10/11. If you get any FACEIT error messages related to your Windows version, you will need to upgrade your ReviOS instance.

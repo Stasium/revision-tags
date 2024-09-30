@@ -1,6 +1,6 @@
 [command]
 name = "browser"
-keywords = ["browser", "Brave", "privacy"]
+keywords = ["Brave", "privacy"]
 enabled = true
 content = """
 Every user has their own preference. Some use Firefox, some Librewolf, some UGC, some Chrome, some Brave, some Edge. It is impossible to cater to all these preferences, so we picked the one we think is best. 

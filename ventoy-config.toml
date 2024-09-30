@@ -1,6 +1,6 @@
 [command]
 name = "ventoy-config"
-keywords = [ ]
+keywords = ["usb", "boot", "configuration"]
 enabled = true
 content = """
 **Revision Configuration for Ventoy**

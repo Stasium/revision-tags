@@ -1,6 +1,6 @@
 [command]
 name = "features"
-keywords = ["details"]
+keywords = ["details", "info"]
 enabled = true
 content = """
 To get a full list of ReviOS's features, please visit the following link:

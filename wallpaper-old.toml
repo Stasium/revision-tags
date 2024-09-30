@@ -1,7 +1,7 @@
 [command]
 name = "wallpaper/old"
 keywords = [ ]
-enabled = true
+enabled = false
 content = """
 **Old ReviOS Wallpaper in 4K**
 

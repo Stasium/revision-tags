@@ -1,6 +1,6 @@
 [command]
 name = "vsrevi"
-keywords = [ ]
+keywords = ["atlas", "competitor", "comparison", "revios", "playbook"]
 enabled = true
 content = """
 ReviOS' main focus is on compatibility, removing only the most obvious bloat and leaving most things needed by many users intact. Other OSs may lean more towards maximum reduction of the system, removing more components and therefore breaking more parts of the system. 

@@ -1,6 +1,6 @@
 [command]
 name = "xbox"
-keywords = [ ]
+keywords = ["controller", "gaming"]
 enabled = true
 content = """
 If your Xbox Wireless Controller isn't working properly, install the respective driver

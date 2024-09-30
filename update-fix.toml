@@ -1,6 +1,6 @@
 [command]
 name = "update-fix"
-keywords = [ ]
+keywords = ["windows"]
 enabled = true
 content = """
 In case you are having issues with installing a Windows update, use the following commands to attempt to fix the issue:

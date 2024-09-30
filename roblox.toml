@@ -1,6 +1,6 @@
 [command]
 name = "roblox"
-keywords = [ ]
+keywords = ["game", "timezone"]
 enabled = true
 content = """
 ## Roblox wont open 

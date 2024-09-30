@@ -1,6 +1,6 @@
 [command]
 name = "wallpaper"
-keywords = [ ]
+keywords = ["background", "desktop", "lockscreen"]
 enabled = true
 content = """
 # ReviOS Wallpapers

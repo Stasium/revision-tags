@@ -1,9 +1,9 @@
 [command]
 name = "pleasegoogle"
-keywords = [ ]
+keywords = ["browser", "search"]
 enabled = true
 content = """
-pls
+Please just google it. We are not a search engine. We do this for fun, not to be your personal assistant.
 """
 
 [embed]

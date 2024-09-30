@@ -1,6 +1,6 @@
 [command]
 name = "irst"
-keywords = [ ]
+keywords = ["drivers", "storage", "SSD", "HDD"]
 enabled = true
 content = """
 https://www.asus.com/us/support/faq/1044458/

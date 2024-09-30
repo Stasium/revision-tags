@@ -1,9 +1,9 @@
 [command]
 name = "ctb"
-keywords = ["tweaks", "optimization", "recommended"]
+keywords = ["tweaks", "optimization"]
 enabled = false
 content = """
-**Recommended tweaks**
+**Tweaks**
 
 https://www.calypto.us/
 https://github.com/deaglebullet

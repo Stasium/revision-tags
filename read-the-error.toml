@@ -1,6 +1,6 @@
 [command]
 name = "read-the-error"
-keywords = [ ]
+keywords = ["documentation", "help"]
 enabled = true
 content = """
 https://just-read.it/

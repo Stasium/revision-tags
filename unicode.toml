@@ -1,6 +1,6 @@
 [command]
 name = "unicode"
-keywords = [ ]
+keywords = ["language", "font", "display", "issue", "problem"]
 enabled = true
 content = """
 If you're having issues with your language display, and it looks like the image below, follow the steps in [this post](https://www.revi.cc/docs/faq/after/font) to fix it.

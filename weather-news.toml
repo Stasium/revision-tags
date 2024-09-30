@@ -1,6 +1,6 @@
 [command]
 name = "weather-news"
-keywords = [ ]
+keywords = ["widget"]
 enabled = true
 content = """
 To remove the widgets, Windows Feeds and Interests feature from **Windows 11**,

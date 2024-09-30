@@ -1,6 +1,6 @@
 [command]
 name = "bcu"
-keywords = ["uninstaller", "bcuninstaller"]
+keywords = ["uninstaller", "bulk"]
 enabled = true
 content = """
 https://www.bcuninstaller.com/

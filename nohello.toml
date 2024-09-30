@@ -1,5 +1,5 @@
 [command]
-name = "hello"
+name = "nohello"
 keywords = [ ]
 enabled = true
 content = """

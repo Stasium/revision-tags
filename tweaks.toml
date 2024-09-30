@@ -1,6 +1,6 @@
 [command]
 name = "tweaks"
-keywords = ["ctb"]
+keywords = ["ctb", "gaming", "optimization", "performance"]
 enabled = true
 content = """
 # Tweaks

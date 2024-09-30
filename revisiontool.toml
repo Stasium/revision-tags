@@ -1,6 +1,6 @@
 [command]
 name = "revisiontool"
-keywords = [ ]
+keywords = ["windows", "revios", "revision", "custom", "tweaks"]
 enabled = true
 content = """
 Download the latest Revision Tool:

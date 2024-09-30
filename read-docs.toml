@@ -1,6 +1,6 @@
 [command]
 name = "read-docs"
-keywords = [ ]
+keywords = ["documentation", "just do it please"]
 enabled = true
 content = """
 https://media.discordapp.net/attachments/626772503473291295/1198969255429935165/revi.gif

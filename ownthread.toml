@@ -1,6 +1,6 @@
 [command]
 name = "ownthread"
-keywords = [ ]
+keywords = ["help", "hijack"]
 enabled = true
 content = """
 Please don't hijack this thread. Create your own thread over at <#1233699549781164103>

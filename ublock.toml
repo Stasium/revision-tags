@@ -1,6 +1,6 @@
 [command]
 name = "ublock"
-keywords = [ ]
+keywords = ["adblock", "origin", "ads", "blocker"]
 enabled = true
 content = """
 <https://ublockorigin.com/>

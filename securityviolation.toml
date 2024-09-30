@@ -1,7 +1,7 @@
 [command]
 name = "securityviolation"
-keywords = [ ]
-enabled = true
+keywords = ["tpm", "secure boot", "bitlocker", "secure boot violation", "tpm error", "bitlocker error", "secure boot error"]
+enabled = false
 content = """
 https://www.ventoy.net/en/doc_secure.html
 """

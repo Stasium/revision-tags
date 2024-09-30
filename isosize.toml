@@ -1,9 +1,9 @@
 [command]
 name = "isosize"
-keywords = [ ]
+keywords = ["bloat", "tweaks", "performance"]
 enabled = true
 content = """
-**ISO size does not directly correlate with OS performance :)**
+**Remember: ISO size does not directly correlate with OS performance**
 """
 
 [embed]

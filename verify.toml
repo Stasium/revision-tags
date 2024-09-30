@@ -1,6 +1,6 @@
 [command]
 name = "verify"
-keywords = [ ]
+keywords = ["hash", "iso", "windows", "corrupted"]
 enabled = true
 content = """
 If your Windows installation is failing somewhere along the way, it's possible that your ISO file is **corrupted**. To make sure there were no issues during the download, you can **verify** the file using the following guide:

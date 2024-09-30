@@ -1,6 +1,6 @@
 [command]
 name = "playbook/uninstall"
-keywords = [ ]
+keywords = ["windows", "revios", "revision", "remove"]
 enabled = true
 content = """
 ## How to uninstall ReviOS

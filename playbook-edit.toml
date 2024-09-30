@@ -1,6 +1,6 @@
 [command]
 name = "playbook/edit"
-keywords = [ ]
+keywords = ["windows", "revios", "revision", "modify", "customize"]
 enabled = true
 content = """
 If you want to edit the playbook before applying, for example to change the wallpaper or change certain tweaks, refer to the [Playbook developer documentation](https://docs.ameliorated.io/developers.html).

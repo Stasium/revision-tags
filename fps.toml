@@ -1,6 +1,6 @@
 [command]
 name = "fps"
-keywords = [ ]
+keywords = ["performance", "improve", "increase", "frames per second"]
 enabled = true
 content = """
 **Does ReviOS increase FPS?**

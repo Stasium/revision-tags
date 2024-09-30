@@ -1,6 +1,6 @@
 [command]
 name = "defender"
-keywords = ["Defender", "performance"]
+keywords = ["performance", "security"]
 enabled = true
 content = """
 The Windows Defender is disabled by default on ReviOS for performance reasons. If you want to use it, you can enable it in the Revision Tool.

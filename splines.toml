@@ -1,6 +1,6 @@
 [command]
 name = "splines"
-keywords = [ ]
+keywords = ["reticulating", "stuck", "help", "ame wizard"]
 enabled = true
 content = """
 ## Stuck on reticulating splines? 

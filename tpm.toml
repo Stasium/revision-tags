@@ -1,6 +1,6 @@
 [command]
 name = "tpm"
-keywords = [ ]
+keywords = ["secure boot", "security", "trusted platform module"]
 enabled = true
 content = """
 ## Should you enable TPM or Secure Boot?

@@ -1,6 +1,6 @@
 [command]
 name = "edge"
-keywords = [ ]
+keywords = ["browser", "remove"]
 enabled = true
 content = """
 ## How to get Microsoft Edge working on ReviOS

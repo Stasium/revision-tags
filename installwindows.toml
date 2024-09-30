@@ -1,6 +1,6 @@
 [command]
 name = "installwindows"
-keywords = [ ]
+keywords = ["guide", "ISO"]
 enabled = true
 content = """
 https://revi.cc/docs/playbook/installwindows/

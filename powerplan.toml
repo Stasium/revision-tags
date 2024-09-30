@@ -1,6 +1,6 @@
 [command]
 name = "powerplan"
-keywords = [ ]
+keywords = ["custom", "tweak", "windows", "revios", "revision"]
 enabled = true
 content = """
 # **Revision Powerplan for ReviOS**

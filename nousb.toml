@@ -1,6 +1,6 @@
 [command]
 name = "nousb"
-keywords = [ ]
+keywords = ["install", "windows"]
 enabled = true
 content = """
 **If you don't have a flash drive:**

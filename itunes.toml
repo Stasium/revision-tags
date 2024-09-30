@@ -1,9 +1,9 @@
 [command]
 name = "itunes"
-keywords = [ ]
+keywords = ["apple", "iphone", "ipad"]
 enabled = true
 content = """
-If you are having problems with iTunes not detecting/recognizing your iPhone/iPad, try installing following the guides and installing the drivers from the sources below:
+If you're having trouble with iTunes not detecting or recognizing your iPhone or iPad, try following the guides and installing the drivers from the sources below:
 
 1. [Revision docs - iTunes](https://revi.cc/docs/faq/after/itunes/)
 2. [Apple device driver](https://www.mobiledit.com/download-list/apple-device-drivers)

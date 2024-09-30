@@ -1,7 +1,7 @@
 [command]
 name = "osufix"
 keywords = [ ]
-enabled = true
+enabled = false
 content = """
 **ASLR (Address space layout randomization)**
 If osu requires **ASLR** but you don't want to enable Windows Defender, you can use [this registry file](https://discord.com/channels/619835916139364383/1089736886504935475/1089833069101457438) to fix the issue.

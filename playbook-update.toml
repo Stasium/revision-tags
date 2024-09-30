@@ -1,6 +1,6 @@
 [command]
 name = "playbook/update"
-keywords = [ ]
+keywords = ["windows", "revios", "revision", "latest"]
 enabled = true
 content = """
 ## Updating your install with Playbooks

@@ -1,6 +1,6 @@
 [command]
 name = "dontasktoask"
-keywords = [ ]
+keywords = ["ask", "dont"]
 enabled = true
 content = """
 https://dontasktoask.com/

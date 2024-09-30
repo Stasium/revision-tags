@@ -1,6 +1,6 @@
 [command]
 name = "mixing"
-keywords = [ ]
+keywords = ["tweaks", "conflicts", "issues", "unsupported"]
 enabled = true
 content = """
 **Disclaimer**

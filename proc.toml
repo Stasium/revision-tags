@@ -1,6 +1,6 @@
 [command]
 name = "proc"
-keywords = [ ]
+keywords = ["process count", "tweaks", "gaming"]
 enabled = true
 content = """
 https://web.archive.org/web/20240207202953/https://zusier.xyz/blog/posts/process-count-doesnt-matter/

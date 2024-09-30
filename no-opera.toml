@@ -1,6 +1,6 @@
 [command]
 name = "no-opera"
-keywords = [ ]
+keywords = ["opera", "browser", "security", "web", "internet"]
 enabled = true
 content = """
 https://rentry.co/operagx

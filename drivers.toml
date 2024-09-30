@@ -1,9 +1,9 @@
 [command]
 name = "drivers"
-keywords = ["install", "drivers", "hardware", "guide"]
+keywords = ["install", "hardware", "guide"]
 enabled = true
 content = """
-You need to **install the drivers** related to the hardware that is not working. Verbose guide on the [**How to install drivers**](https://www.revi.cc/docs/drivers/) page of the FAQ.
+You **need** to **install the drivers** related to the hardware that is not working. See the guide on the [**How to install drivers**](https://www.revi.cc/docs/drivers/) page of the FAQ.
 
 It's generally recommended to **not** use Windows Update or any driver installer tool for this task. They can install outdated drivers or drivers that are not compatible with your hardware.
 """

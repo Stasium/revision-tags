@@ -1,6 +1,6 @@
 [command]
 name = "postinstall"
-keywords = [ ]
+keywords = ["windows", "revios", "revision", "faq"]
 enabled = true
 content = """
 **ReviOS post-install guide**

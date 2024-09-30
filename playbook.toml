@@ -1,10 +1,10 @@
 [command]
 name = "playbook"
-keywords = [ ]
+keywords = ["windows", "revios", "revision", "install"]
 enabled = true
 content = """
 ## Playbooks are the future
-Playbooks convert a Windows Stock install to ReviOS. You need to install your desired stock version first, then apply the Playbook on top of it.
+Playbooks convert a Windows Stock install to ReviOS. You need to install your desired stock version first, then just apply the Playbook on top of it.
 
 **Installation via ISO is no longer available.** We've made this decision because its a lot of work to maintain 4 ISOs + Playbook + Revision tool + Revision website, most of which is being done by h3r0 alone. Plus, ISO distribution is against the Microsoft TOS.
 
