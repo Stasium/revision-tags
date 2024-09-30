@@ -1,9 +1,9 @@
 [command]
-name = "meme/try"
+name = "dontasktoask"
 keywords = [ ]
 enabled = true
 content = """
-http://tryitands.ee/
+https://dontasktoask.com/
 """
 
 [embed]

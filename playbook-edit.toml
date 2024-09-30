@@ -1,5 +1,5 @@
 [command]
-name = "pb/edit"
+name = "playbook/edit"
 keywords = [ ]
 enabled = true
 content = """

@@ -1,10 +1,10 @@
 [command]
 name = "faq"
-keywords = [ ]
+keywords = ["help"]
 enabled = true
 content = """
 **New and Updated FAQ**
-https://www.revi.cc/docs/faq/
+https://www.revi.cc/docs/category/faq
 """
 
 [embed]

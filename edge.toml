@@ -5,9 +5,9 @@ enabled = true
 content = """
 ## How to get Microsoft Edge working on ReviOS
 
-1. Open your Terminal and run the following command in it: `reg delete HKLM\\SOFTWARE\\Policies\\Microsoft\\EdgeUpdate /f`
+1. Open a new Terminal windows and run the following command: `reg delete HKLM\\SOFTWARE\\Policies\\Microsoft\\EdgeUpdate /f`
 2. Restart your Computer
-3. Open your Terminal again and run the command `winget install Microsoft.Edge`
+3. Open a Terminal again and run the command `winget install Microsoft.Edge`
 4. Edge should now be installed
 """
 

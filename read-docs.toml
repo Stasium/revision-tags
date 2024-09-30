@@ -1,5 +1,5 @@
 [command]
-name = "meme/read"
+name = "read-docs"
 keywords = [ ]
 enabled = true
 content = """

@@ -1,0 +1,10 @@
+[command]
+name = "playbook/versions"
+keywords = ["compatible"]
+enabled = true
+content = """
+https://github.com/meetrevision/playbook#-system-requirements
+"""
+
+[embed]
+enabled = false

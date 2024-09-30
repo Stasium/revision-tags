@@ -1,11 +1,11 @@
 [command]
-name = "games"
+name = "gamelaunchers"
 keywords = [ ]
 enabled = true
 content = """
 ## Game Launchers
 
-In case some games launcher are not working on your ReviOS system, please try out alternatives
+If for some reason, a game launcher is not working on your ReviOS system, please check out these alternatives:
 
 <https://www.revi.cc/docs/faq/after/game-launchers>
 """

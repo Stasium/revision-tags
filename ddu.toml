@@ -1,6 +1,6 @@
 [command]
 name = "ddu"
-keywords = [ ]
+keywords = ["graphic", "uninstall", "DDU", "driver"]
 enabled = true
 content = """
 If you are having issues with your graphic drivers, we recommend uninstalling and reinstalling the drivers. To do so, please go through following steps:

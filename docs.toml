@@ -1,6 +1,6 @@
 [command]
 name = "docs"
-keywords = [ ]
+keywords = ["documentation", "guide"]
 enabled = true
 content = """
 https://www.revi.cc/docs/

@@ -1,5 +1,5 @@
 [command]
-name = "ltsc"
+name = "win10-ltsc"
 keywords = [ ]
 enabled = true
 content = """

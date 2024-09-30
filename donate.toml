@@ -1,6 +1,6 @@
 [command]
 name = "donate"
-keywords = [ ]
+keywords = ["support", "donation", "project"]
 enabled = true
 content = """
 If you want to support the Revision Project, you can leave us a donation here: https://www.buymeacoffee.com/meetrevision
@@ -8,4 +8,3 @@ If you want to support the Revision Project, you can leave us a donation here: h
 
 [embed]
 enabled = true
-image = "https://cdn.discordapp.com/attachments/775322799677767680/1047143743163211867/unknown.png"

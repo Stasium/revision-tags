@@ -1,5 +1,5 @@
 [command]
-name = "pb"
+name = "playbook"
 keywords = [ ]
 enabled = true
 content = """
