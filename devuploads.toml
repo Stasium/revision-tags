@@ -3,7 +3,7 @@ name = "devuploads"
 keywords = ["money", "donate", "support", "contribute"]
 enabled = true
 content = """
-`The download site is riddled with ads!`
+`"The download site is riddled with ads!"`
 
 Yes, we are sorry about that. We run this project in our free time just for fun, and no one gets paid. The ads help cover things like server costs and other expenses.
 
