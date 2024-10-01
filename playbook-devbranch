@@ -1,0 +1,16 @@
+[command]
+name = "playbook/devbranch"
+keywords = ["windows", "revios", "playbook", "development"]
+enabled = true
+content = """
+`"Is ReviOS dead?"`, `"Why no updates?"`
+
+Just because the [main branch](https://github.com/meetrevision/playbook/tree/main) hasn't been updated in a while does **not** mean that ReviOS is discontinued or abandoned.
+
+Please keep in mind that we do all of this in our free time. So, we may not always be available or have time to work on ReviOS, as all of us still have personal lives.
+
+For all the [latest changes](https://github.com/meetrevision/playbook/compare/main...dev) to the playbook, please check the [development branch](https://github.com/meetrevision/playbook/tree/dev) first.
+"""
+
+[embed]
+enabled = true
