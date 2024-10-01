@@ -1,6 +1,6 @@
 [command]
 name = "playbook/devbranch"
-keywords = ["windows", "revios", "playbook", "development"]
+keywords = ["windows", "revios", "playbook", "development", "beta"]
 enabled = true
 content = """
 `"Is ReviOS dead?"`, `"Why no updates?"`
