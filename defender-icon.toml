@@ -13,4 +13,4 @@ reg add "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run" 
 """
 
 [embed]
-enabled = false
+enabled = true
