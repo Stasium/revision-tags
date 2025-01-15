@@ -1,11 +1,11 @@
 [command]
 name = "defender-force"
-keywords = ["performance", "security", "force"]
+keywords = ["performance", "security"]
 enabled = true
 content = """
-If you're having problems with re-enabling the Defender, use this.
+If you're having problems with re-enabling the Windows Defender, try this.
 
-Please run these commands in a new Terminal/Powershell window (as admin):
+Open up a new Terminal/Powershell window (as admin) and enter these commands:
 
 `& "C:\\Program Files (x86)\\Revision Tool\\revitool.exe" defender disable --force`
 
