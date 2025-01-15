@@ -5,13 +5,13 @@ enabled = true
 content = """
 If you're having problems with re-enabling the Defender, use this.
 
-Please run these commands in PowerShell (as admin):
+Please run these commands in a new Terminal/Powershell window (as admin):
 
-& "C:\\Program Files (x86)\\Revision Tool\\revitool.exe" defender disable --force
+`& "C:\\Program Files (x86)\\Revision Tool\\revitool.exe" defender disable --force`
 
 then
 
-& "C:\\Program Files (x86)\\Revision Tool\\revitool.exe" defender enable --force
+`& "C:\\Program Files (x86)\\Revision Tool\\revitool.exe" defender enable --force`
 """
 
 [embed]
