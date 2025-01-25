@@ -18,7 +18,7 @@ content = """
 - You want longer update support for Windows 10.
 
 ## Reasons to avoid using LTSC:
-- As stated above, many games and software might not support LTSC once that same build has reached the end of life in GAC.
+- Many games and software might not support LTSC once the version number has reached the end of life.
 - Games might not work out of the box and you will manually need to install store and Xbox apps.
 - New hardware might not be fully supported by a 2-3 year-old LTSC build (A new version of LTSC is released every 3 years).
 - You might miss new features added in GAC that aren't available in LTSC.
