@@ -5,7 +5,7 @@
 name = "ltsc"
 
 # Keywords associated with the command. This is an empty array and can be populated with relevant keywords.
-keywords = [ iot ]
+keywords = [ "iot" ]
 
 # Boolean flag to indicate whether the command is enabled or not.
 enabled = true
