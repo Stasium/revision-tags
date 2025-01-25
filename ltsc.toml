@@ -13,15 +13,15 @@ enabled = true
 # The actual content or message that the command will output. This can be a multiline string.
 content = """
 ## Reasons to use LTSC
-- You don't like annual Windows feature upgrades.
-- You don't like preinstalled Store (UWP) apps as well.
-- You want longer update support for Windows 10.
+- You don't like annual Windows feature upgrades
+- You don't want any UWP apps (incl. Store) to be preinstalled
+- You want longer update support for Windows 10
 
 ## Reasons to avoid using LTSC:
-- Many games and software might not support LTSC once the version number has reached the end of life.
-- Games might not work out of the box and you will manually need to install store and Xbox apps.
-- New hardware might not be fully supported by a 2-3 year-old LTSC build (A new version of LTSC is released every 3 years).
-- You might miss new features added in GAC that aren't available in LTSC.
+- Many games and software may not support LTSC once the version number has reached the end of life
+- Games may not work out of the box and you will manually need to install store and Xbox apps
+- New hardware might not be fully supported by a 2-3 year-old LTSC build (A new version of LTSC is released every 3 years)
+- You might miss new features added in GAC that aren't available in LTSC
 
 ## Difference between LTSC and IOT LTSC
 """
