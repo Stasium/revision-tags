@@ -12,20 +12,6 @@ enabled = true
 
 # The actual content or message that the command will output. This can be a multiline string.
 content = """
-Microsoft releases Windows 10 and 11 through two servicing channels.
-
-1. GAC (General Availability Channel)
-  - It is intended for both general and enterprise customers.
-  - Edition examples include options such as Home, Pro, and Enterprise.
-  - Maximum support on the same build is usually 2 years for consumers and 3 years for the enterprise. After that, you need to install feature updates.
-  - This is the main servicing channel and other software and games usually follow this channel's life cycle to provide support.
-2. LTSC (Long-Term Servicing Channel)
-  - It is designed for devices where functionality and features must remain constant over time, such as medical systems, industrial controllers, and air traffic control devices.
-  - Examples of editions include: Enterprise LTSC and IoT Enterprise LTSC.
-  - Maximum support on the same build is usually 5 years for LTSC and 10 years for the IoT LTSC.
-  - This is not the main servicing channel and other software and games usually don't follow this channel's life cycle. For example, browsers and games might not provide support for 10 years on same build.
-  - It lacks most of the Store (UWP) apps.
-
 ## Reasons to use LTSC
 - You don't like annual Windows feature upgrades.
 - You don't like preinstalled Store (UWP) apps as well.
@@ -36,6 +22,8 @@ Microsoft releases Windows 10 and 11 through two servicing channels.
 - Games might not work out of the box and you will manually need to install store and Xbox apps.
 - New hardware might not be fully supported by a 2-3 year-old LTSC build (A new version of LTSC is released every 3 years).
 - You might miss new features added in GAC that aren't available in LTSC.
+
+## Difference between LTSC and IOT LTSC
 """
 
 # This section defines the configuration for embedding content.
