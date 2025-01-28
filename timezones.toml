@@ -1,0 +1,12 @@
+[command]
+name = "timezones"
+keywords = ["response time", "availability"]
+enabled = true
+content = """
+If you're wondering why you haven't received an immediate response, it might be due to the time difference. Members are often located in different time zones, and for some, it could be the middle of the night. So please be patient, as we'll get back to you as soon as we're available.
+
+Thanks for understanding!
+"""
+
+[embed]
+enabled = true
