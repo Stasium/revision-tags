@@ -1,0 +1,16 @@
+[command]  
+name = "10vs11-performance"  
+keywords = ["gaming", "switch", "goat"]  
+enabled = true  
+content = """  
+Since Windows 10 is going EOL, we suggest to just use Windows 11 unless you really wanna stay with 10. If you're worried about how it might affect your gaming experience, it’s a good idea to check out some performance comparisons.  
+
+- [Tom's Hardware: Graphics Performance on Windows 10 vs 11](https://www.tomshardware.com/news/graphics-performance-win10-vs-win11)  
+- [TechSpot: Is Windows 11 Faster Than Windows 10?](https://www.techspot.com/article/2872-which-is-faster-windows-10-or-windows-11/)  
+
+As you can see, performance is mostly the same. Some games run slightly better on Windows 10, while others see improvements on Windows 11. It really depends on the specific game and your setup.  
+"""
+
+[embed]  
+enabled = true  
+image = "https://media.discordapp.net/attachments/775322799677767680/1335040666245402724/Tv5kkajb8gtUGqSGYfQFp9-970-80.png?ex=679eb902&is=679d6782&hm=e7ee81494189dee8db068feff62a7dce0cb45a284a150aacba9adef37cc1d4bf"
