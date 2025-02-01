@@ -1,0 +1,12 @@
+# This is the main section for defining a command configuration.
+[command]
+name = "testing"
+keywords = [ ]
+enabled = true
+
+content = """
+JS result: ${Math.random() * Math.random()}
+"""
+
+[embed]
+enabled = false
