@@ -4,12 +4,7 @@ keywords = [ ]
 enabled = true
 
 content = """
-Username: ${username}
-mention: ${mention}
-
-Guild Name: ${guildName}
-Guild ID: ${guildId}
-Channel Name: ${channelName}
+Hello ${user.name}, you are running this command on ${guild.name} in the ${channel.name} channel <:kek_facepalm:1163475465844031554>
 """
 
 [embed]
