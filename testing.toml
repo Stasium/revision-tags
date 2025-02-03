@@ -4,7 +4,12 @@ keywords = [ ]
 enabled = true
 
 content = """
-JS result: ${Math.random() * Math.random()}
+Username: ${username}
+mention: ${mention}
+
+Guild Name: ${guildName}
+Guild ID: ${guildId}
+Channel Name: ${channelName}
 """
 
 [embed]
