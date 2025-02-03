@@ -3,7 +3,7 @@ name = "chucknorris"
 keywords = ["funny"]
 enabled = true
 content = """
-Here's a funny chuck norris joke: ${fetchUrl("https://api.chucknorris.io/jokes/random")
+Here's a funny chuck norris joke: ${fetchUrl("https://api.chucknorris.io/jokes/random")}
 """
 
 [embed]
