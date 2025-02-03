@@ -1,0 +1,6 @@
+[command]
+name = "chucknorris"
+keywords = ["funni"]
+content = """
+Here's a funny chuck norris joke: ${fetchUrl("https://api.chucknorris.io/jokes/random")
+"""
