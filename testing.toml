@@ -1,7 +1,7 @@
 [command]
 name = "testing"
 keywords = [ ]
-enabled = false
+enabled = true
 
 content = """
 JS result: ${Math.random() * Math.random()}
