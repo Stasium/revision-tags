@@ -6,8 +6,6 @@ content = """
 Download the latest Revision Tool:
 
 https://github.com/MeetRevision/revision-tool/releases/latest
-
-More info about the tool: [related FAQ post](https://www.revi.cc/docs/faq/after/features)
 """
 
 [embed]
