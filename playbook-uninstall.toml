@@ -3,18 +3,19 @@ name = "playbook/uninstall"
 keywords = ["windows", "revios", "revision", "remove"]
 enabled = true
 content = """
-## How to uninstall ReviOS
+# ReviOS cannot easily be uninstalled
+It does permanent changes to the system and registry which **__cannot be reverted.__** 
+To completely remove ReviOS, you **have to reinstall Windows**!
 
-### Note:
-⚠️〡This **will not** remove ReviOS fully, only most of it!
-⚠️〡This **will not** bring back removed APPX packages or revert registry modifications, only system components!
-📗〡To completely remove ReviOS, you **will** need to reinstall Windows!
+## Re-enabling disabled system components
+⚠️〡This **will not** remove ReviOS fully!
+⚠️〡This **will not** bring back removed APPX packages or revert registry modifications!
 
-To uninstall, open a new PowerShell window as administrator and paste the following command:
+Open a new PowerShell window as administrator and paste the following command:
 ```powershell
 Get-WindowsPackage -online -PackageName *ReviOS* | Remove-WindowsPackage -Online
 ```
-If the command completes without any errors, restart your PC. ReviOS should now be (mostly) removed.
+If the command completes without any errors, restart your PC. The system components should now be re-enabled.
 """
 
 [embed]
