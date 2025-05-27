@@ -5,18 +5,17 @@ enabled = true
 content = """
 Seeing a bad LatencyMon result? Don't worry, you shouldn't use it anyways. 
 
-From their **own** page: *"LatencyMon checks if a system running Windows is suitable for processing real-time audio and other tasks."* It was not made with gamers in mind.
+From their **own** page: *"LatencyMon checks if a system running Windows is suitable for processing __real-time audio__ and other tasks."*
 
 LatencyMon measures latency in microseconds. To give some context:
-
 ```
 1 second = 1,000,000 microseconds
 1 millisecond = 1,000 microseconds
 ```
 
-For gaming, even a few thousand microseconds (or a few milliseconds) can seem significant. However, the latency measured here typically represents only a fraction of the total delay affecting gameplay. A driver showing 3000 microseconds of latency averages out to about 3 milliseconds of input lag, a number that, while noticeable in severe cases, is still minor relative to other latency contributors like frame rendering time.
+For gaming, even a few milliseconds of latency can feel significant, but the driver latency measured (such as 3000 microseconds, or 3 milliseconds) only accounts for a small portion of overall input delay. Other factors, like frame rendering time and network lag, usually contribute much more to the total gameplay latency.
 
-Please see here:
+Please also see here:
 [`Stop Using LatencyMon to Improve Gaming Performance`](https://hone.gg/blog/stop-using-latencymon-to-improve-gaming-performance)
 [`LatencyMon and how people use it`](https://linustechtips.com/topic/1588059-latencymon-and-how-people-use-it/#comment-16567126)
 """
