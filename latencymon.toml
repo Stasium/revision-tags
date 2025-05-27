@@ -17,8 +17,8 @@ LatencyMon measures latency in microseconds. To give some context:
 For gaming, even a few thousand microseconds (or a few milliseconds) can seem significant. However, the latency measured here typically represents only a fraction of the total delay affecting gameplay. A driver showing 3000 microseconds of latency averages out to about 3 milliseconds of input lag, a number that, while noticeable in severe cases, is still minor relative to other latency contributors like frame rendering time.
 
 Please see here:
-`[Stop Using LatencyMon to Improve Gaming Performance](https://hone.gg/blog/stop-using-latencymon-to-improve-gaming-performance)`
-`[LatencyMon and how people use it](https://linustechtips.com/topic/1588059-latencymon-and-how-people-use-it/#comment-16567126)`
+[`Stop Using LatencyMon to Improve Gaming Performance`](https://hone.gg/blog/stop-using-latencymon-to-improve-gaming-performance)
+[`LatencyMon and how people use it`](https://linustechtips.com/topic/1588059-latencymon-and-how-people-use-it/#comment-16567126)
 """
 
 [embed]
