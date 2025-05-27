@@ -12,7 +12,6 @@ LatencyMon measures latency in microseconds. To give some context:
 1 second = 1,000,000 microseconds
 1 millisecond = 1,000 microseconds
 ```
-
 For gaming, even a few milliseconds of latency can feel significant, but the driver latency measured (such as 3000 microseconds, or 3 milliseconds) only accounts for a small portion of overall input delay. Other factors, like frame rendering time and network lag, usually contribute much more to the total gameplay latency.
 
 Please also see here:
