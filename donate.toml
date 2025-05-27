@@ -3,7 +3,7 @@ name = "donate"
 keywords = ["support", "project"]
 enabled = true
 content = """
-If you want to support the Revision Project and the people behind it, you can leave us a donation here: https://www.buymeacoffee.com/meetrevision 🤍
+If you want to support the Revision Project and the people behind it, you can leave us a donation here: https://revi.cc/donate/ 🤍
 """
 
 [embed]
