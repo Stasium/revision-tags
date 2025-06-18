@@ -17,3 +17,6 @@ If there was an error related to the Revision Tool, please check here:
 
 If you're asked by staff, please provide these logs for further troubleshooting.
 """
+
+[embed]
+enabled = true
