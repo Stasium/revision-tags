@@ -7,12 +7,12 @@ Encountered an error and now looking for the logs?
 
 If there was an error during installation, please check here:
 ```
-C:\ProgramData\AME\Logs
+C:\\ProgramData\\AME\\Logs
 ```
 
 If there was an error related to the Revision Tool, please check here:
 ```
-%temp%\Revision-Tool\Logs
+%temp%\\Revision-Tool\\Logs
 ```
 
 If you're asked by staff, please provide these logs for further troubleshooting.
