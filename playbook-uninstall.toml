@@ -9,8 +9,8 @@ To completely remove ReviOS, you **have to reinstall Windows**!
 
 Before doing so, run these two commands one by one in a Powershell window:
 ```powershell
-& "${env:ProgramFiles(x86)}\Revision Tool\revitool.exe" winpackage --uninstall system-components-removal
-& "${env:ProgramFiles(x86)}\Revision Tool\revitool.exe" winpackage --uninstall defender-removal
+& "${env:ProgramFiles(x86)}/Revision Tool/revitool.exe" winpackage --uninstall system-components-removal
+& "${env:ProgramFiles(x86)}/Revision Tool/revitool.exe" winpackage --uninstall defender-removal
 ```
 """
 
