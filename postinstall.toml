@@ -5,7 +5,7 @@ enabled = true
 content = """
 **ReviOS post-install guide**
 
-https://www.revi.cc/docs/post-install
+https://revi.cc/docs/setup/post-install
 """
 
 [embed]

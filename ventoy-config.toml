@@ -3,8 +3,10 @@ name = "ventoy-config"
 keywords = ["usb", "boot", "configuration"]
 enabled = true
 content = """
-**Revision Configuration for Ventoy**
-https://github.com/meetrevision/ventoy-config
+~~**Revision Configuration for Ventoy**~~
+~~https://github.com/meetrevision/ventoy-config~~
+
+No longer needed, as the ISO Injection method automatically applies the necessary configuration.
 """
 
 [embed]

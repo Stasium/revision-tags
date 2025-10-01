@@ -5,13 +5,7 @@ enabled = true
 content = """
 **If you don't have a flash drive:**
 
-https://revi.cc/docs/iso/install#if-you-do-not-have-a-usb-drive
- 
-***__OR__***
-
 https://github.com/iidanL/InstallWindowsWithoutUSB
-
-The first method is recommended. For more details, read the [ReviOS install tutorial](https://www.revi.cc/docs/install).
 """
 
 [embed]

@@ -3,7 +3,7 @@ name = "docs"
 keywords = ["documentation", "guide", "manual", "reference"]
 enabled = true
 content = """
-https://www.revi.cc/docs/
+https://revi.cc/docs/
 """
 
 [embed]

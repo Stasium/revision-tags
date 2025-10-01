@@ -9,12 +9,12 @@ Playbooks convert a Windows Stock install to ReviOS. You need to install your de
 **Installation via ISO is no longer available.** We've made this decision because its a lot of work to maintain 4 ISOs + Playbook + Revision tool + Revision website, most of which is being done by h3r0 alone. Plus, ISO distribution is against the Microsoft TOS.
 
 ## Installation Instructions
-The instructions to installing ReviOS with the Playbook are under https://revi.cc/docs/playbook/general.
+The instructions to installing ReviOS with the Playbook are under https://www.revi.cc/docs/playbook/install.
 
-If you've previously installed ReviOS from an ISO, you can [update your install](https://revi.cc/docs/playbook/install/#update) with the Playbook without problems.
+If you've previously installed ReviOS from an ISO, you can [update your install](https://www.revi.cc/docs/playbook/install) with the Playbook without problems.
 
 ## Getting Stock ISOs
-A direct link to stock Windows ISOs can be found [in our docs](https://revi.cc/docs/playbook/installwindows/#downloading-the-windows-iso)
+A stock Windows ISO can be downloaded directly from AME Wizard, but they are usually not frequently updated by Microsoft. For the latest ISOs, you can use [Massgrave](https://massgrave.dev/genuine-installation-media).
 """
 
 [embed]

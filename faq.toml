@@ -4,7 +4,7 @@ keywords = ["help", "frequently asked questions"]
 enabled = true
 content = """
 **FAQ**
-https://www.revi.cc/docs/category/faq
+https://revi.cc/docs
 """
 
 [embed]

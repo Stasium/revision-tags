@@ -3,7 +3,7 @@ name = "installwindows"
 keywords = ["guide", "ISO"]
 enabled = true
 content = """
-https://revi.cc/docs/playbook/installwindows/
+https://www.revi.cc/docs/playbook/iso
 """
 
 [embed]

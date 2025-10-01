@@ -5,7 +5,7 @@ enabled = true
 content = """
 To get a full list of ReviOS's features, please visit the following link:
 
-https://www.revi.cc/docs/faq/before/features
+https://revi.cc/docs/features
 """
 
 [embed]

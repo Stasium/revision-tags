@@ -5,11 +5,11 @@ enabled = true
 content = """
 ## Updating your install with Playbooks
 
-1. Enable Defender and Windows Update in the Revision tool
-2. Install all updates that you wish to have
-3. Once all updates are finalized, re-run the [latest available Playbook](https://github.com/meetrevision/playbook/releases/latest)
+1. Enable Windows Updates and install all updates
+2. Download latest [AME Wizard](https://amelabs.net/) and [ReviOS Playbook](https://github.com/meetrevision/playbook/releases/latest)
+2. Once all updates are finalized, re-run the playbook
 
-More details are in the docs: https://revi.cc/docs/playbook/install#update
+More details are in the docs: https://revi.cc/docs/playbook/install
 """
 
 [embed]
