@@ -1,7 +1,7 @@
 [command]
 name = "ghub"
 keywords = ["logitech"]
-enabled = false
+enabled = true
 content = """
 GHUB Alternative:
 
