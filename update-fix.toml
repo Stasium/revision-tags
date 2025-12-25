@@ -7,8 +7,6 @@ In case you are having issues with installing a Windows update, use the followin
 
 - `DISM /Online /Cleanup-Image /RestoreHealth`
 - `SFC /scannow` 
-
-If this method didn't work, please use the [Upgrade solution](https://revi.cc/docs/playbook/upgrade#method-1-recommended) instead.
 """
 
 [embed]
