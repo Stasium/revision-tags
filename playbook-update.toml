@@ -5,7 +5,7 @@ enabled = true
 content = """
 ## Updating your install with Playbooks
 
-1. Enable Windows Updates and install all updates
+1. Enable/Unpause Windows Updates and install all updates
 2. Download latest [AME Wizard](https://amelabs.net/) and [ReviOS Playbook](https://github.com/meetrevision/playbook/releases/latest)
 2. Once all updates are finalized, re-run the playbook
 

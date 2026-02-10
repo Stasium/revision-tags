@@ -7,11 +7,11 @@ If you're having problems with re-enabling the Windows Defender, try this.
 
 Open up a new Terminal/Powershell window (as admin) and enter these commands:
 
-`& "C:\\Program Files (x86)\\Revision Tool\\revitool.exe" defender disable --force`
+`& "$env:PROGRAMFILES\\Revision Tool\\revitool.exe" defender disable --force`
 
-then
+restart, then
 
-`& "C:\\Program Files (x86)\\Revision Tool\\revitool.exe" defender enable --force`
+`& "$env:PROGRAMFILES\\Revision Tool\\revitool.exe" defender enable --force`
 """
 
 [embed]

@@ -5,12 +5,12 @@ enabled = true
 content = """
 Ran into an error and need to find the logs?
 
-If the error happened during installation, check here:
+If the error happened during installation, open Run (Win + R) and check here:
 ```
-C:\\ProgramData\\AME\\Logs
+%programdata%\\AME\\Logs
 ```
 
-If the error is related to the Revision Tool, check here:
+If the error is related to the Revision Tool, open Run (Win + R) check here:
 ```
 %temp%\\Revision-Tool\\Logs
 ```
