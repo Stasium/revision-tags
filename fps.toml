@@ -9,7 +9,7 @@ ReviOS removes or disables resource-heavy drivers, services, and background task
 
 **However, it's important to note** that ReviOS is not a magic solution for dramatically increasing FPS. It reduces system bloat rather than enhancing your hardware's performance, so any improvements in FPS will likely be modest—just a few extra frames. You can also expect gains in system stability, lower latency, and better privacy.
 
-For a full list of what ReviOS removes or disables, you can check this link: [ReviOS Features List](https://revi.cc/docs/faq/before/features).
+For a full list of what ReviOS removes or disables, you can check this link: [ReviOS Features List](https://revi.cc/docs/features).
 
 If you're looking for a significant FPS boost, upgrading your hardware will have the biggest impact.
 """
